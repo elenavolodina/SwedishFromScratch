@@ -33,28 +33,28 @@ ________________________________________________________________________________
 
 ## Contents
 
-| Русский |  Svenska | English | Link|
-|:-------------|:--------------|:--------------|:--------------|
-|• [Урок 1. Приветствия 1.](https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/) |  | | |
-|• [Урок 2. Числа 1-13.](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/) | | | |
-|• [Урок 3. Приветствия 2. У меня есть...](https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/) | | | |
-|• [Урок 4. Семья 1. Меня/её/его зовут...](https://quizlet.com/686391035/%D0%A3%D1%80%D0%BE%D0%BA-4-flash-cards/) | | | |
-|• [Урок 5. Дни недели. Адрес.](https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/) | | | |
-|• [Урок 6. Числа 14-20. Телефонный номер.](https://quizlet.com/686408178/%D0%A3%D1%80%D0%BE%D0%BA-6-flash-cards/) | | | |
-|• [Урок 7. Слова к тексту "Vad heter du?"](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/) | | | |
-|• [**Текст 1.** Vad heter du?](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10359{and}user=elena.v.gu{and}hl=ru|en) | | | |
-|• [Урок 8. Числа 21+](https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/) | | | |
-|• [Урок 9. Слова к тексту "Kronprinsessan Victoria"](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/) | | | |
-|• [**Текст 2.** Kronprinsessan Victoria](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru|en) | | | |
-|• [Урок 10. Время. Часы.](https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/) | | | |
-|• [Урок 11. Слова к тексту "När går bussen?"](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/) | | | |
-|• [**Текст 3.** När går bussen?](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru|en) | | | |
-|• [Урок 12. Личные местоимения.](https://quizlet.com/690468663/%D0%A3%D1%80%D0%BE%D0%BA-12-%D0%9C%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/) | | | |
-|• [Урок 13. Профессии 1.](https://quizlet.com/690702769/%D0%A3%D1%80%D0%BE%D0%BA-13-%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8-flash-cards/) | | | |
-|• [Урок 14. Притяжательные местоимения.](https://quizlet.com/690955754/%D0%A3%D1%80%D0%BE%D0%BA-14-%D0%9F%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/) | | | |
-|• [Урок 15.](https://quizlet.com/691038864/%D0%A3%D1%80%D0%BE%D0%BA-15-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-flash-cards/) | | | |
-|• [Урок 16.](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/) | | | |
-|• [**Текст 4.**](http://multidict.net/wordlink/?navsize=1&sl=sv&url=http://multidict.net/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru|en) | | | |
+| Русский |  Svenska | English |
+|:-------------|:--------------|:--------------
+|• [Урок 1. Приветствия 1.](https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/) | Lektion 1. Hälsningsfraser 1. |  Lesson 1. Greetings 1.|
+|• [Урок 2. Числа 1-13.](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/) | Lektion 2. Siffror 1-13. | Lesson 2. Numbers 1-13.  | |
+|• [Урок 3. Приветствия 2. У меня есть...](https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/) | Lektion 3. Hälsningsfraser 2. Jag har... | Lesson 3. Greetings 2. I have...|
+|• [Урок 4. Семья 1. Меня/её/его зовут...](https://quizlet.com/686391035/%D0%A3%D1%80%D0%BE%D0%BA-4-flash-cards/) | Lektion 4. Familj 1. Jag/hon/han heter... | Lesson 4. Family 1. My/her/his name is... | 
+|• [Урок 5. Дни недели. Адрес.](https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/) | Lektion 5. Veckodagar. Adress. | Lesson 5. Weekdays. Address. | 
+|• [Урок 6. Числа 14-20. Телефонный номер.](https://quizlet.com/686408178/%D0%A3%D1%80%D0%BE%D0%BA-6-flash-cards/) | Lektion 6. Siffror 14-20. Telefonnummer. | Lesson 6. Numbers 14-20. Telephone numbers. |
+|• [Урок 7. Слова к тексту "Vad heter du?"](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/) | Lektion 7. Ord till texten "Vad heter du?" | Lesson 7. Words to the text "Vad heter du?" | 
+|• [**Текст 1.** Vad heter du?](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10359{and}user=elena.v.gu{and}hl=ru) | Text 1. Vad heter du? | |
+|• [Урок 8. Числа 21+](https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/) | Lektion 8. Siffror 21+ | Lesson 8. Numbers 21+ | 
+|• [Урок 9. Слова к тексту "Kronprinsessan Victoria"](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/) | Lektion 9. Ord till texten "Kronprinsessan Vicoria" | Lesson 9. Words to the text "Kronprinsessan Vicoria" | 
+|• [**Текст 2.** Kronprinsessan Victoria](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru) | Text 2. Kronprinsessan Victoria | |
+|• [Урок 10. Время. Часы.](https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/) | Lektion 10. Tid. Klockan. | Lesson 10. Time. Clock. |
+|• [Урок 11. Слова к тексту "När går bussen?"](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/) | Lektion 11. Ord till texten "När går bussen?" | Lesso 11. Words to the text "När går bussen?" |
+|• [**Текст 3.** När går bussen?](https://multidict.net/wordlink/?navsize=1&sl=sv&url=https://multidict.net/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru) | Text 3. När går bussen?| | 
+|• [Урок 12. Личные местоимения.](https://quizlet.com/690468663/%D0%A3%D1%80%D0%BE%D0%BA-12-%D0%9C%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/) | Lektion 12. Personpronomen | Lesson 12. Personal pronouns | 
+|• [Урок 13. Профессии 1.](https://quizlet.com/690702769/%D0%A3%D1%80%D0%BE%D0%BA-13-%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8-flash-cards/) | | Lektion 13. Yrken 1. | Lesson 13. Professions. |
+|• [Урок 14. Притяжательные местоимения.](https://quizlet.com/690955754/%D0%A3%D1%80%D0%BE%D0%BA-14-%D0%9F%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/) | Lektio 14. Possessive pronomen. | Lesson 14. Possessive pronouns.|
+|• [Урок 15. Глаголы, фразы. ](https://quizlet.com/691038864/%D0%A3%D1%80%D0%BE%D0%BA-15-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-flash-cards/) | Lektion 15. Verbfraser. | Lesson 16. Verb phrases. |
+|• [Урок 16. Слова к тексту "Vad gör du? Vem vill du bli? Vad är din hobby?" ](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/) | Lektion 16. Ord till texten "Vad gör du? Vem vill du bli? Vad är din hobby?" | Lesson 16. Words to the text "Vad gör du? Vem vill du bli? Vad är din hobby?" |
+|• [**Текст 4.** Vad gör du? Vem vill du bli? Vad är din hobby?](http://multidict.net/wordlink/?navsize=1&sl=sv&url=http://multidict.net/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru) | Text 4. Vad gör du? Vem vill du bli? Vad är din hobby?| |
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
