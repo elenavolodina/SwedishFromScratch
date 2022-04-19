@@ -16,7 +16,7 @@
 
 _____________________________________________________________________________________
 
-*Translation into English *
+**Translation into English**
 
 Welcome to the web page of the mini-course "Шведский с нуля" / "Swedish from scratch". You can subscribe to the course and get notifications about new lessons here: [https://t.me/quizlet4swedish](https://t.me/quizlet4swedish). 
 
