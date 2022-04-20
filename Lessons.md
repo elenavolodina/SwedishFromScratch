@@ -10,6 +10,7 @@
 * Quizlet (app) для работы со словами и их переводом на русский. Здесь же есть возможность делать упражнения на слова - поэкспериментируйте! 
 * Clilstore - платформа для работы с текстами. Платформа позволяет нажимать на слова в тексте, при этом открывается новое окно, где нажатые слова автоматически переводятся на тот язык, который вы выбираете, и с помощью того словаря, который вы выберете в списке. На начальном этапе подойдет LEXIN (русская версия). 
 * GitHub - для объяснений и грамматики
+* [Lätt svenska med Oscar](https://podcasts.apple.com/us/podcast/swedish-podcast-for-beginners-l%C3%A4tt-svenska-med-oskar/id1579313463) - для прослушивания текстов на простом шведском 
 
 Автором курса является [Елена Володина](https://spraakbanken.gu.se/en/about/staff/elena); инициатива создать курс возникла как акция доброй воли, чтобы поддержать беженцев из Украины, которые прибыли в Швецию в результате войны с Россией.
 Я добавляю информацию к этому курсу по мере необходимости и возможности. 
@@ -24,7 +25,8 @@ Below you will find a list of the existing lessons in the order as I recommend t
 
 * Quizlet - an app to work with vocabulary and its translation into Russian. The app allows to do exercises with the lesson vocabulary - feel free to experiment! 
 * Clilstore - a platform to work with texts. The platform allows to click words in the text, which opens a window for dictionaries. You will need to set a language for translation and a dictionary from a list of choices. At the beginning, I would recommend LEXIN (Russian version). 
-* GitHub - here I add grammar explanations and store links to the lessons.
+* GitHub - here I add grammar explanations and store links to the lessons
+* [Lätt svenska med Oscar](https://podcasts.apple.com/us/podcast/swedish-podcast-for-beginners-l%C3%A4tt-svenska-med-oskar/id1579313463) - for listening exercises in easy Swedish 
 
 The author of the course is [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena); the initiative to start this course is an act of good will, a token of support to Ukrainian refugees coming to Sweden as a consequence of the war with Russia.
 This is a work-in-progress. I am adding new lessons and explanations when there is a need and time. 
