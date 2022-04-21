@@ -59,7 +59,7 @@ ________________________________________________________________________________
 |• [**Текст 4.** Vad gör du? Vem vill du bli? Vad är din hobby?](http://multidict.net/wordlink/?navsize=1&sl=sv&url=http://multidict.net/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru) | Text 4. Vad gör du? Vem vill du bli? Vad är din hobby?| |
 |• [Урок 17. Слова к тексту 5(а)](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)| Lektion 17. Ord till Text 5(a)| Lesson 17. Words to Text 5(a) | 
 |• [Урок 18. Слова к тексту 5(б)](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/) | Lektion 18. Ord till Text 5(b)| Lesson 18. Words to Text 5(b) | |
-|• [**Текст 5.** Var bor du? (Lyssna! Lätt svenska med Oscar)](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}user=elena.v.gu{and}hl=ru|en)| Text 5. Var bor du? (Lyssna! Lätt svenska med Oscar)| | 
+|• [**Текст 5.** Var bor du?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}user=elena.v.gu{and}hl=ru|en) (Lyssna! Lätt svenska med Oscar)| Text 5. Var bor du? (Lyssna! Lätt svenska med Oscar)| | 
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
