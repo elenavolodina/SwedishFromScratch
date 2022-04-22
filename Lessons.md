@@ -11,6 +11,7 @@
 * [Clilstore](https://clilstore.eu/clilstore/index.php) - платформа для работы с текстами. Платформа позволяет нажимать на слова в тексте, при этом открывается новое окно, где нажатые слова автоматически переводятся на тот язык, который вы выбираете, и с помощью того словаря, который вы выберете в списке. На начальном этапе подойдет LEXIN (русская версия). 
 * [GitHub](https://elenavolodina.github.io/SwedishFromScratch/Lessons) - для объяснений и грамматики
 * [Lätt svenska med Oscar](https://podcasts.apple.com/us/podcast/swedish-podcast-for-beginners-l%C3%A4tt-svenska-med-oskar/id1579313463) - для прослушивания текстов на простом шведском 
+* [Канал Youtube _SFI med Anastasia_](https://www.youtube.com/channel/UCsBJdKJxjnCf_6BxcmZHadw) - YouTube канал с уроками шведского. Некоторые эпизоды/уроки будут предлагаться здесь.
 
 Автором курса является [Елена Володина](https://spraakbanken.gu.se/en/about/staff/elena); инициатива создать курс возникла как акция доброй воли, чтобы поддержать беженцев из Украины, которые прибыли в Швецию в результате войны с Россией.
 Я добавляю информацию к этому курсу по мере необходимости и возможности. 
@@ -27,6 +28,7 @@ Below you will find a list of the existing lessons in the order as I recommend t
 * [Clilstore](https://clilstore.eu/clilstore/index.php) - a platform to work with texts. The platform allows to click words in the text, which opens a window for dictionaries. You will need to set a language for translation and a dictionary from a list of choices. At the beginning, I would recommend LEXIN (Russian version). 
 * [GitHub](https://elenavolodina.github.io/SwedishFromScratch/Lessons) - here I add grammar explanations and store links to the lessons
 * [Lätt svenska med Oscar](https://podcasts.apple.com/us/podcast/swedish-podcast-for-beginners-l%C3%A4tt-svenska-med-oskar/id1579313463) - a podcast channel for listening exercises in easy Swedish 
+* [Youtube channel _SFI med Anastasia_](https://www.youtube.com/channel/UCsBJdKJxjnCf_6BxcmZHadw) - a YouTube channel with easy Swedish. Some selected lessons will be linked to this course.
 
 The author of the course is [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) ; the initiative to start this course is an act of good will, a token of support to Ukrainian refugees coming to Sweden as a consequence of the war with Russia.
 This is a work-in-progress. I am adding new lessons and explanations when there is a need and time. 
@@ -60,8 +62,8 @@ ________________________________________________________________________________
 |• [Урок 17. Слова к тексту 5(а)](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)| Lektion 17. Ord till Text 5(a)| Lesson 17. Words to Text 5(a) | 
 |• [Урок 18. Слова к тексту 5(б)](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/) | Lektion 18. Ord till Text 5(b)| Lesson 18. Words to Text 5(b) | |
 |• [**Текст 5.** Var bor du?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}user=elena.v.gu{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 5. Var bor du? (Lyssna! Lätt svenska med Oscar)| | 
-|• Урок| | | |
-|• Урок| | | |
+|• [Урок 19. Слова к Youtube 1]() | | | |
+|• [**Youtube 1.** Påsk](https://www.youtube.com/watch?v=rICKA6XDi68) (SFI A med Anastasia)| | | |
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
