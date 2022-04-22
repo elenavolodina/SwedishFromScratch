@@ -64,7 +64,7 @@ ________________________________________________________________________________
 |• [**Текст 5.** Var bor du?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}user=elena.v.gu{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 5. Var bor du? (Lyssna! Lätt svenska med Oscar)| | 
 |• [Урок 19. Пасха](https://quizlet.com/692519823/%D0%A3%D1%80%D0%BE%D0%BA-19-%D0%9F%D0%B0%D1%81%D1%85%D0%B0-flash-cards/) | Lektion 19. Påsk. | Lesson 19. Easter.| 
 |• [**Текст 6.** Påsk i Sverige.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru)| Text 6. Påsk i Sverige. ||
-|• [**Youtube 1.** Påsk](https://www.youtube.com/watch?v=rICKA6XDi68) (SFI A med Anastasia)| YouTube 1. Påsk (SFI med Anastaisia)| | |
+|• [**Youtube 1.** Påsk](https://www.youtube.com/watch?v=rICKA6XDi68) (SFI A med Anastasia)| YouTube 1. Påsk (SFI A med Anastaisia)| | |
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
