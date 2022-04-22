@@ -3,6 +3,8 @@
 
 *(Elena Volodina, April-... 2022)*
 
+[https://elenavolodina.github.io/SwedishFromScratch/Lessons](https://elenavolodina.github.io/SwedishFromScratch/Lessons)
+
 Добро пожаловать на страничку мини-курса "Шведский с нуля" / "Swedish from scratch". На курс можно подписаться и получать уведомления о новых уроках на [канале Телеграм](https://t.me/quizlet4swedish). 
 
 Ниже вы найдете уроки в том порядке, в котором я предлагаю их изучать. Уроки добавляются постепенно, в зависимости от того, когда у меня есть время их составить. Я использую следующие приложения:
