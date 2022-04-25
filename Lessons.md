@@ -72,7 +72,7 @@ ________________________________________________________________________________
 |• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)| Text 7. Årstider. Lovtider. ||
 |• [Урок 22. Слова к тексту 8а]()| ...coming...| | |
 |• [Урок 23. Слова к тексту 8б]()| ...coming...| | |
-[**Текст 8.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 8. Dricker du kaffe? ||
+|• [**Текст 8.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 8. Dricker du kaffe? ||
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
