@@ -69,10 +69,10 @@ ________________________________________________________________________________
 |• [**Youtube 1.** Påsk](https://www.youtube.com/watch?v=rICKA6XDi68) (SFI A med Anastasia)| YouTube 1. Påsk (SFI A med Anastaisia)| | |
 |• [Урок 20. Времена года. Месяцы](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)| Lektion 20. Årstider. Månader |Lesson 20. Seasons. Months. | 
 |• [Урок 21. Слова к тексту "Времена года. Каникулы".]()| ...coming...| | |
-|• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)| Text 7. Årstider. Lovtider. ||
+|• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)|Text 7. Årstider. Lovtider. ||
 |• [Урок 22. Слова к тексту 8а]()| ...coming...| | |
 |• [Урок 23. Слова к тексту 8б]()| ...coming...| | |
-|• [**Текст 8.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 8. Dricker du kaffe? ||
+|• [**Текст 8.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
