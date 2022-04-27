@@ -71,7 +71,7 @@ ________________________________________________________________________________
 |• [Урок 21. Слова к тексту 7: Årstider. Lovtider.]()| ...coming...| | |
 |• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)|Text 7. Årstider. Lovtider. ||
 |• [Урок 22. День рождения. Слова к тексту 8](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)| Lektion 22. Födelsedag. Ord till text 8. | Lesson 22. Birthday. Words to text 8. | |
-|• [**Текст 8.** Grattis på födelsedagen!](hhttps://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru) (Lyssna på sången)| Text 8. Grattis på födelsedagen! ||
+|• [**Текст 8.** Grattis på födelsedagen!](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru)  (Lyssna på sången)| Text 8. Grattis på födelsedagen! ||
 |• [Урок 23. Слова к тексту 9а]()| ...coming...| | |
 |• [Урок 24. Слова к тексту 9б]()| ...coming...| | |
 |• [**Текст 9.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
