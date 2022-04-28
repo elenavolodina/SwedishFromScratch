@@ -72,10 +72,12 @@ ________________________________________________________________________________
 |• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)|Text 7. Årstider. Lovtider. ||
 |• [Урок 22. День рождения. Слова к тексту 8](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)| Lektion 22. Födelsedag. Ord till text 8. | Lesson 22. Birthday. Words to text 8. | |
 |• [**Текст 8.** Grattis på födelsedagen!](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru)  (Lyssna på sången)| Text 8. Grattis på födelsedagen! ||
-|• [Урок 23. Слова к тексту 9а]()| ...coming...| | |
-|• [Урок 24. Слова к тексту 9б]()| ...coming...| | |
-|• [**Текст 9.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
-|• Урок| | | | 
+|• [Урок 23. Личные данные. Personuppgifter.](https://quizlet.com/694234432/%D0%A3%D1%80%D0%BE%D0%BA-23-personuppgifter-flash-cards/)|Lektion 23. Personuppgifter |Lesson 23. Personal data. |  
+|• [Урок 24. Заполняем анкету. Слова к тексту 9.](https://quizlet.com/694544618/%D0%A3%D1%80%D0%BE%D0%BA-24-%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D1%83-%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-9-flash-cards/)|Lektion 24. Att fylla i en form. Ord till text 9. | Lesson 24. To fill in a form. Words to text 9.| 
+|• [**Текст 9.** Ansökan och personuppgifter](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)|Text 9. Ansökan och personuppgifter| | 
+|• [Урок XX. Слова к тексту 9а]()| ...coming...| | |
+|• [Урок XX. Слова к тексту 9б]()| ...coming...| | |
+|• [**Текст XX.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
