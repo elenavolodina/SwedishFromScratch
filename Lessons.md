@@ -68,7 +68,7 @@ ________________________________________________________________________________
 |• [**Текст 6.** Påsk i Sverige.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru)| Text 6. Påsk i Sverige. ||
 |• [**Youtube 1.** Påsk](https://www.youtube.com/watch?v=rICKA6XDi68) (SFI A med Anastasia)| YouTube 1. Påsk (SFI A med Anastaisia)| | |
 |• [Урок 20. Времена года. Месяцы](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)| Lektion 20. Årstider. Månader |Lesson 20. Seasons. Months. | 
-|• [Урок 21. Слова к тексту 7: Årstider. Lovtider.]()| ...coming...| | |
+|• [Урок 21. Слова к тексту 7: Årstider. Lovtider.]()| Lektion 21. Ord till text Årstidder. Lovtider.| | |
 |• [**Текст 7.** Årstider. Lovtider.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru)|Text 7. Årstider. Lovtider. ||
 |• [Урок 22. День рождения. Слова к тексту 8](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)| Lektion 22. Födelsedag. Ord till text 8. | Lesson 22. Birthday. Words to text 8. | |
 |• [**Текст 8.** Grattis på födelsedagen!](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru)  (Lyssna på sången)| Text 8. Grattis på födelsedagen! ||
@@ -77,6 +77,8 @@ ________________________________________________________________________________
 |• [**Текст 9.** Ansökan och personuppgifter](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru)|Text 9. Ansökan och personuppgifter| | 
 |• [Урок 25. Собеседование на работу. Jobbintervju.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-intervju-beratta-om-dig-sjalv-flash-cards/?new)| Lektion 25. Jobbintervju | Lesson 25. Job interview| 
 |• [**Текст 10.** Собеседование на работу.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru)|Text 10. Jobbintervju| | 
+||||
+||||
 |• [Урок XX. Слова к тексту 9а]()| ...coming...| | |
 |• [Урок XX. Слова к тексту 9б]()| ...coming...| | |
 |• [**Текст XX.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
