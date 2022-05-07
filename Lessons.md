@@ -7,6 +7,8 @@
 
 [**A BLOG about this course**](https://spraakbanken.gu.se/blogg/index.php/2022/04/29/swedishfromscratch-a-mini-course-for-ukranians/)
 
+[**A NEW ARTICLE about this course** (in Swedish)](https://www.gu.se/nyheter/forskare-utvecklar-digital-sprakkurs-i-svenska-for-ukrainare)
+
 Добро пожаловать на страничку мини-курса "Шведский с нуля" / "Swedish from scratch". На курс можно подписаться и получать уведомления о новых уроках на [канале Телеграм](https://t.me/quizlet4swedish). 
 
 Ниже вы найдете уроки в том порядке, в котором я предлагаю их изучать. Уроки добавляются постепенно, в зависимости от того, когда у меня есть время их составить. Я использую следующие приложения:
@@ -81,15 +83,15 @@ ________________________________________________________________________________
 |• [**Текст 9.** Ansökan och personuppgifter](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru)|Text 9. Ansökan och personuppgifter| | 
 |• [Урок 25. Собеседование на работу. Jobbintervju.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-intervju-beratta-om-dig-sjalv-flash-cards/?new)| Lektion 25. Jobbintervju | Lesson 25. Job interview| 
 |• [**Текст 10.** Собеседование на работу.](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru)|Text 10. Jobbintervju| | 
+|• [Урок 26. Как ты? Hur mår du?](https://quizlet.com/696607896/%D0%A3%D1%80%D0%BE%D0%BA-26-%D0%9A%D0%B0%D0%BA-%D1%82%D1%8B-hur-mar-du-flash-cards/)| | | 
+|• [Урок 27. Kaffe med mjölk](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)| | | |
+|• [**Текст 11.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 11. Dricker du kaffe? ||
+|• [Урок 28. Одежда для женщин.](https://quizlet.com/697354776/%D0%A3%D1%80%D0%BE%D0%BA-28-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD-flash-cards/)| | | |
+|• Урок| | | |
+|• Урок| | | |
+|• Урок| | | |
+|• Урок| | | |
+|• Урок| | | |
+|• Урок| | | |
 ||||
 ||||
-|• [Урок XX. Слова к тексту 9а]()| ...coming...| | |
-|• [Урок XX. Слова к тексту 9б]()| ...coming...| | |
-|• [**Текст XX.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| ...in preparation... Text 8. Dricker du kaffe? ||
-|• Урок| | | |
-|• Урок| | | |
-|• Урок| | | |
-|• Урок| | | |
-|• Урок| | | |
-|• Урок| | | |
-|• Урок| | | |
