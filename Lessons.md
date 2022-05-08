@@ -87,7 +87,7 @@ ________________________________________________________________________________
 |• [Урок 27. Kaffe med mjölk](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)| | | |
 |• [**Текст 11.** Dricker du kaffe?](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru) (Lyssna! Lätt svenska med Oscar)| Text 11. Dricker du kaffe? ||
 |• [Урок 28. Одежда для женщин.](https://quizlet.com/697354776/%D0%A3%D1%80%D0%BE%D0%BA-28-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD-flash-cards/)| | | |
-|• Урок| | | |
+|• [Урок 29. Одежда для мужчин.](https://quizlet.com/697428906/%D0%A3%D1%80%D0%BE%D0%BA-29-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD-flash-cards/?new)| | | 
 |• Урок| | | |
 |• Урок| | | |
 |• Урок| | | |
