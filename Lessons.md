@@ -1,5 +1,7 @@
-# Мини-уроки шведского: ссылки по порядку
-## Mini-lektioner i svenska: länkar i ordning 
+# SwedishFromScratch 
+## Mini-lektioner i svenska för ukrainare 
+
+Мини-уроки шведского: ссылки по порядку
 
 *(Elena Volodina, April-... 2022)*
 
