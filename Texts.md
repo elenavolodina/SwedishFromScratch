@@ -26,15 +26,18 @@ ________________________________________________________________________________
 
 [01. Vad heter du?](#01-vad-heter-du)
 
-  - [Imperativ](#imperativ)
+  - [Text](#text 01)
+  - [Grammatik att fokusera på 01](#grammatik-att-fokusera-på-01)
  
-[2. Verbfraser med presens](#2-verbfraser-med-presens) 
-  
-  - [Presens - aktiv inklusive hjälpverb](#presens---aktiv-inklusive-hjälpverb)
-  - [Presens - aktiv exklusive hjälpverb](#presens---aktiv-exklusive-hjälpverb)
-  - [Presens - s-passiv el. deponens](#presens---s-passiv-el-deponens)
-  - [Presens - s-passiv](#presens---s-passiv)
-  - [Presens - deponens](#presens---deponens)
+[02. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
+
+  - [Text](#text 02)
+  - [Grammatik att fokusera på 02](#grammatik-att-fokusera-på-02)
+
+[03. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
+
+  - [Text](#text 02)
+  - [Grammatik att fokusera på 02](#grammatik-att-fokusera-på-02)
 
 _____________________________________________________________________________________
 
@@ -78,4 +81,30 @@ https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstor
 * Prepositioner (t.ex. multiple choice / free writing)
 * Exclamations - Tack! Hej! Vad trevligt! Ja! Bra, tack! Javisst! Ok! Vi ses! (t.ex. ta bort alla och lämna som "word bank" eller för att fritt skriva in)
 
+_____________________________________________________________________________________
+
+## 02. Kronprinsessan Victoria
+
+https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en
+
+### Text
+
+Victoria, 45 år gammal, är Sveriges kronprinsessa. Hon är dotter till kung Carl XVI Gustaf och drottning Silvia. Hon har en bror, prins Carl Philip och en syster, prinsessan Madeleine.
+
+Victorias man heter Daniel Westling. Han är prins Daniel av Sverige och hertig av Västergötland. Victoria och Daniel har två barn, dottern Estelle, prinsessa av Sverige, och sonen Oscar, prins av Sverige. 
+
+Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är mormor till Estelle och Oscar. Kung Carl Gustaf är morfar till barnen.
+
+### Grammatik att fokusera på
+
+* Ordföljd, och speciellt med "och" i meningar
+* Ordna meningar till en text
+* Prepositioner: till, av, från. Find & mark, Multiple choice, Free writing
+* Verb: är - har, (kommer - heter?). Find & mark, Multiple choice, Free writing
+* Substantiv och deklinationer: "en" vs "ett"-ord (Lista alla substantiv från texten under "en" och "ett" kolumner)
+* Substantiv med obestämd artikel "en" : en bror, en prins, ett barn
+* Substantiv i plural: olika deklinationer (?), bl.a. ett barn - (många) barn, en prinsessa - (många) prinsessor, en bror - (många) bröder, en dotter - (många) döttrar
+* Substantiv obestämd - bestämd form: en son - sonen, en drottning - drottningen, en familj - familjen. Lista bestämd form - hitta obestämd form. Och tvärtom.
+* Substantiv i genitiv: Victorias man, Sveriges kronprinsessa
+* Substantiv utan någon bestämdhet efter genitiv: en bror - Victorias bror
 
