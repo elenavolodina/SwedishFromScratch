@@ -34,7 +34,7 @@ ________________________________________________________________________________
   - [Text 02](#text-02)
   - [Grammatik 02](#grammatik-02)
 
-[03. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
+[03. När går bussen?](#03-när-går-bussen) 
 
   - [Text 03](#text-03)
   - [Grammatik 03](#grammatik-03)
