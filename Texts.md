@@ -37,7 +37,7 @@ ________________________________________________________________________________
 [03. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
 
   - [Text 03](#text-03)
-  - [Grammatik att fokusera på 03](#grammatik-03)
+  - [Grammatik 03](#grammatik-03)
 
 _____________________________________________________________________________________
 
