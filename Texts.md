@@ -108,3 +108,48 @@ Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är morm
 * Substantiv i genitiv: Victorias man, Sveriges kronprinsessa
 * Substantiv utan någon bestämdhet efter genitiv: en bror - Victorias bror
 
+_____________________________________________________________________________________
+
+## 03. När går bussen?
+
+https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en
+
+### Text 03
+
+Ihor studerar svenska vid en skola på Lindholmen i Göteborg. Han åker till skolan varje dag. Lektionerna startar klockan (kl.) 9.30.
+
+Varje morgon måste Ihor hinna borsta tänderna, äta frukost, dricka kaffe, klä på sig och packa väskan. Sedan måste han åka buss från Marklandsgatan till Lindholmen.
+
+Vilken tid, tror du, Ihor vaknar?
+
+När borstar han tänderna?
+
+När äter han frukost och dricker kaffe?
+
+När går han till bussen?
+
+Vilken tid går hans buss?
+
+När kommer han fram till Lindholmen?
+
+
+### Grammatik 03
+
+* Ordföljd: frågor vs påståenden
+* Frågeord: när, vilken tid
+* Prepositioner: vid, i, till, på, från, fram
+* Adverb: varje dag, varje morgon
+* Verbfraser: måste hinna/åka, hinna borsta/äta/...
+* Verbgrupper: presens med 
+-  -ar : studerar, startar, borstar, vaknar, packar
+-  -er : äter, dricker, kommer, hinner, åker, 
+-  -r  : klär, går, tror
+
+* Modala verb: måste. Bygg fraser/meningar? med "måste" + VB
+* Substantiv: plural + bestämdhet: 
+- en tand - tanden - tänder - tänderna
+- en buss - bussen - bussar - bussarna, etc
+
+* klä på sig: Jag klär på mig, Du klär på dig, Han klär på sig
+
+
