@@ -165,9 +165,9 @@ När kommer han fram till Lindholmen?
 * Adverb: varje dag, varje morgon
 * Verbfraser: måste hinna/åka, hinna borsta/äta/...
 * Verbgrupper: presens med 
--  -ar : studerar, startar, borstar, vaknar, packar
--  -er : äter, dricker, kommer, hinner, åker, 
--  -r  : klär, går, tror
+**  -ar : studerar, startar, borstar, vaknar, packar
+**  -er : äter, dricker, kommer, hinner, åker, 
+**  -r  : klär, går, tror
 
 * Modala verb: måste. Bygg fraser/meningar? med "måste" + VB
 * Substantiv: plural + bestämdhet: 
