@@ -27,17 +27,17 @@ ________________________________________________________________________________
 [01. Vad heter du?](#01-vad-heter-du)
 
   - [Text 01](#text-01)
-  - [Grammatik 01](#grammatik-att-fokusera-på-01)
+  - [Grammatik 01](#grammatik-01)
  
 [02. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
 
   - [Text 02](#text-02)
-  - [Grammatik 02](#grammatik-att-fokusera-på-02)
+  - [Grammatik 02](#grammatik-02)
 
 [03. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
 
-  - [Text 03](#text 02)
-  - [Grammatik att fokusera på 03](#grammatik-att-fokusera-på-02)
+  - [Text 03](#text-03)
+  - [Grammatik att fokusera på 03](#grammatik-03)
 
 _____________________________________________________________________________________
 
