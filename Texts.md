@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en
 
-### Text
+### Text 01
 
 - Hej! Vad heter du? Jag heter Sven.
 - Hej! Jag heter Oleksandr.
@@ -69,7 +69,7 @@ https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstor
 !### Ord att fokusera på?
 
 
-### Grammatik att fokusera på
+### Grammatik 01
 
 * Ordföljd i frågor 
 * Ordföljd i påståenden
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en
 
-### Text
+### Text 02
 
 Victoria, 45 år gammal, är Sveriges kronprinsessa. Hon är dotter till kung Carl XVI Gustaf och drottning Silvia. Hon har en bror, prins Carl Philip och en syster, prinsessan Madeleine.
 
@@ -95,7 +95,7 @@ Victorias man heter Daniel Westling. Han är prins Daniel av Sverige och hertig 
 
 Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är mormor till Estelle och Oscar. Kung Carl Gustaf är morfar till barnen.
 
-### Grammatik att fokusera på
+### Grammatik 02
 
 * Ordföljd, och speciellt med "och" i meningar
 * Ordna meningar till en text
