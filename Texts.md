@@ -47,11 +47,11 @@ ________________________________________________________________________________
   - [Text 05](#text-05)
   - [Grammatik 05](#grammatik-05)
 
-[06. ](06-)
+[06. Påsk i Sverige](06-påsk-i-sverige)
   - [Text 06](#text-06)
   - [Grammatik 06](#grammatik-06)
 
-[07. ](07-)
+[07. Årstider och lovtider](07-årstider-och-lovtider)
   - [Text 07](#text-07)
   - [Grammatik 07](#grammatik-07)
 
@@ -314,7 +314,7 @@ Okej. Tack för idag allihopa. Vi hörs igen snart. Hejdå!
 
 _____________________________________________________________________________________
 
-## 06. 
+## 06. Påsk i Sverige
 
 Text: 
 
@@ -324,6 +324,17 @@ Ordlektioner:
 
 ### Text 06
 
+Det är vår. På våren firar vi påsk. Påsk är viktig i Sverige. Det är fem dagar på påsken: torsdag, fredag, lördag, söndag och måndag.
+
+På påsken, jobbar vi halva dagen på torsdag. Vi har ledigt på fredag och på måndag. Barn har ledigt från skolan under påsken. De har skollov.
+
+På påsken äter vi mycket godis. Vi gömmer påskägg med påskgodis i, och barn letar efter dem. 
+
+Vi äter mycket påskmat: ägg, godis, kyckling, potatis och sill. Vi dricker mycket påskmust.
+
+Barnen klär sig ut till påskkärringar, går till grannar och får godis.
+
+Glad Påsk!
 
 
 ### Grammatik 06
@@ -331,7 +342,7 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 07. 
+## 07. Årstider och lovtider
 
 Text: 
 
@@ -340,6 +351,20 @@ Ordlektioner:
 * 
 
 ### Text 07
+
+Vi har fyra arstider: vinter, vår, sommar och höst.
+
+Ett år har 12 månader: januari, februari, mars, april, maj, juni, juli, augusti, september, oktober, november och december.
+
+Vintern har tre månader: december, januari och februari. På vintern firar vi Jul och Nyår. Vi säger "God Jul!" på jul och "Gott Nytt År!" på nyår. På vintern har barnen ledigt från skolan delar av december och januari. Det heter jullov. De är lediga ungefär tre veckor. Barnen har också ledigt från skolan på sportlov i februari. De är lediga en vecka.
+
+Våren har tre månader: mars, april och maj. På våren firar vi Påsk. Vi säger "Glad Påsk!". På våren är barnen lediga från skolan under påsken. Det heter påsklov. De är lediga ungefär 10 dagar.
+
+Sommaren har tre månader: juni, juli och augusti. På sommaren firar vi Midsommaren. Det är längsta dagen på året. Vi säger "Glad midsommar!". Barnen har sommarlov ungefär två månader under sommaren, från ungefär mitten av juni till ungefär mitten av augusti.
+
+Hösten har tre månader: september, oktober och november. På hösten firar vi Halloween. Barnen går till grannar i maskeradkostymer och säger "Bus eller godis!". Då får dem godis. Barnen har höstlov en vecka i slutet av oktober eller i början av november.
+
+Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i ditt land?
 
 
 
