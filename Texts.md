@@ -1,5 +1,5 @@
 # Texter till SwedishFromScratch (svenska för ukrainare)
-**inkl. länkar, ordförråd & grammatik att fokusera på **
+**inkl. länkar, ordförråd & grammatik att fokusera på**
 
 *(Elena Volodina, April-... 2022)*
 
@@ -18,6 +18,7 @@ Kursen startades av [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/e
 _____________________________________________________________________________________
 _Useful links_
 
+[https://elenavolodina.github.io/SwedishFromScratch/Texts](https://elenavolodina.github.io/SwedishFromScratch/Texts)
 
 _____________________________________________________________________________________
 ## Содержание (Innehåll)
@@ -55,27 +56,27 @@ ________________________________________________________________________________
   - [Text 07](#text-07)
   - [Grammatik 07](#grammatik-07)
 
-[08. ](#)
+[08. Grattis på födelsedagen!](#08-grattis-på-födelsedagen)
   - [Text 08](#text-08)
   - [Grammatik 08](#grammatik-08)
 
-[09. ](09-)
+[09. Ansökan och personuppgifter](09-ansökan-och-personuppgifter)
   - [Text 09](#text-09)
   - [Grammatik 09](#grammatik-09)
 
-[10. ](10-)
+[10. Jobbintervju](10-jobbintervju)
   - [Text 10](#text-10)
   - [Grammatik 10](#grammatik-10)
 
-[11. ](11-)
+[11. Dricker du kaffe?](11-dricker-du-kaffe)
   - [Text 11](#text-11)
   - [Grammatik 11](#grammatik-11)
 
-[12. ](12-)
+[12. Att köpa kläder](12-att-köpa-kläder)
   - [Text 12](#text-12)
   - [Grammatik 12](#grammatik-12)
 
-[13. ](13-)
+[13. I kläd- och skoaffären](13-i-kläd--och-skoaffären)
   - [Text 13](#text-13)
   - [Grammatik 13](#grammatik-13)
 
