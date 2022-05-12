@@ -39,23 +39,23 @@ ________________________________________________________________________________
   - [Text 03](#text-03)
   - [Grammatik 03](#grammatik-03)
 
-[04. Vad gör du? Vem vill du bli? Vad är din hobby?](04-vad-gör-du-vem-vill-du-bli-vad-är-din-hobby)
+[04. Vad gör du? Vem vill du bli? Vad är din hobby?](#04-vad-gör-du-vem-vill-du-bli-vad-är-din-hobby)
   - [Text 04](#text-04)
   - [Grammatik 04](#grammatik-04)
 
-[05. Var bor du?](05-var-bor-du)
+[05. Var bor du?](#05-var-bor-du)
   - [Text 05](#text-05)
   - [Grammatik 05](#grammatik-05)
 
-[06. Påsk i Sverige](06-påsk-i-sverige)
+[06. Påsk i Sverige](#06-påsk-i-sverige)
   - [Text 06](#text-06)
   - [Grammatik 06](#grammatik-06)
 
-[07. Årstider och lovtider](07-årstider-och-lovtider)
+[07. Årstider och lovtider](#07-årstider-och-lovtider)
   - [Text 07](#text-07)
   - [Grammatik 07](#grammatik-07)
 
-[08. ](08-)
+[08. ](#)
   - [Text 08](#text-08)
   - [Grammatik 08](#grammatik-08)
 
@@ -265,15 +265,16 @@ ________________________________________________________________________________
 
 ## 05. Var bor du? 
 
-Text: https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en
+**Ordlektioner i Quizlet**
 
-Audio: https://podcasts.apple.com/us/podcast/1-var-bor-du/id1579313463?i=1000530743920
-
-Ordlektioner:
-
-* 
+* [Lektion 17. Var bor du? Ord till text 5, part 1](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)
+* [Lektion 18. Länder. Ord till text 5, part 2](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/)
 
 ### Text 05
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en)
+
+[Listen to the text with _Lätt Svenska med Oscar_](https://podcasts.apple.com/us/podcast/1-var-bor-du/id1579313463?i=1000530743920)
 
 Okej allihopa, hej och välkommen till Lätt Svenska med Oscar. Välkommen!
 
@@ -320,13 +321,13 @@ ________________________________________________________________________________
 
 ## 06. Påsk i Sverige
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 19. Påsk.](https://quizlet.com/692519823/%D0%A3%D1%80%D0%BE%D0%BA-19-%D0%9F%D0%B0%D1%81%D1%85%D0%B0-flash-cards/)
 
 ### Text 06
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru|en)
 
 Det är vår. På våren firar vi påsk. Påsk är viktig i Sverige. Det är fem dagar på påsken: torsdag, fredag, lördag, söndag och måndag.
 
@@ -348,13 +349,14 @@ ________________________________________________________________________________
 
 ## 07. Årstider och lovtider
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 20. Månader. Årstider.](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)
+* [Leektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
 
 ### Text 07
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru|en)
 
 Vi har fyra arstider: vinter, vår, sommar och höst.
 
@@ -377,16 +379,33 @@ Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i d
 
 _____________________________________________________________________________________
 
-## 08. 
+## 08. Grattis på födelsedagen!
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 22. Födelsedag.](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)
 
 ### Text 08
 
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru|en)
+
+[Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg)
+
+[Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
+
+Idag är en speciell dag. Idag fyller Artem år. Han fyller tolv år. Vi tar tårta, kommer in i hans sovrum och väcker honom med en sång. Vi sjunger:
+
+Ja, må han leva, ja, må han leva, ja, må han leva uti hundrade år!
+
+Javisst ska han leva, javisst ska han leva, javisst ska han leva uti hundrade år!
+
+Hip-hip, hurra, hurra, hurra, hurraaaaaaa!
+
+Artem får presenter, kramar och pussar. Han får också önska sig något och blåsa ljus.
+
+På kvällen ska Artem ha fest med familj och äta mer tårta.
+
+Grattis, Artem! Grattis på födelsedagen!
 
 
 ### Grammatik 08
@@ -394,16 +413,56 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 09. 
+## 09. Ansökan och personuppgifter
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 23. Personuppgifter.](https://quizlet.com/694234432/%D0%A3%D1%80%D0%BE%D0%BA-23-%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-personuppgifter-flash-cards/)
+* [lektion 24. Att fylla i en formulär.](https://quizlet.com/694544618/%D0%A3%D1%80%D0%BE%D0%BA-24-%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D1%83-%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-9-flash-cards/)
 
 ### Text 09
 
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)
+
+Du kan ansöka om olika saker från myndigheter. Till exempel, du kan ansöka om ekonomiskt stöd från Migrationsverket. Det blir en ansökan per person. Du ska fylla i information om dig och sedan skriva under.
+
+Alla ansökan behöver personuppgifter:
+
+* efternamn, till exempel, Svensson eller Soloviov.
+
+* förnamn, till exempel, Harald, eller Oleh.
+
+* födelsedatum, till exempel, 27 april 2004. I Sverige börjar man med år (ÅÅ), sedan månad (MM), och sist datum (DD). Det blir 040427 för 27 april 2004. 
+
+* personnummer, till exempel, 20040427-8765. Personnummer är ett  ID-nummer som Sverige använder. Först kommer födelsedag (ÅÅÅÅMMDD), och sedan fyra siffror, typ en personlig kod.
+
+* dossiernummer är ett ID-nummer som du kan få från en myndighet.
+
+* meborgarskap, till exempel, Ukraina eller Somalia. Vi skriver namn på ett land.
+
+* kön, till exempel, "man", "kvinna", och ibland "vill inte säga" eller "annat".
+
+* adress - här ska du skriva gatuadress (till exempel Vasagatan 34), postnummer (till exempel 46701) och ort (en stad, till exempel, Malmö eller en by, till exempel, Mark).
+
+Testa att fylla i tabellen med dina personuppgifter:
+
+förnamn 
+
+efternamn 	
+
+födelsedatum 
+
+dossiernummer 
+
+medborgarskap 
+
+kön 
+
+gatuadress 
+
+postnummer 	
+
+ort 	 
 
 
 ### Grammatik 09
@@ -411,16 +470,39 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 10. 
+## 10. Jobbintervju
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 25. Intervju. Berätta om dig själv.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-25-intervju-beratta-om-dig-sjalv-flash-cards/)
 
 ### Text 10
 
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru|en)
+
+- Hej, och välkommen! Kan du berätta lite om dig själv?
+
+- Hej, jag heter Sveta. Jag är från Ukraina, från Mariupol. Jag är fyrtio år gammal. Jag kom till Sverige den första april, för fyra veckor sedan.
+
+Jag pratar ukrainska och ryska. Jag lär mig svenska. Jag bor med min familj hos min kusin. Jag har två barn och en man.
+
+- Vad bra! Hur kan du beskriva dig själv?
+
+- Jag är noggrann, positiv och ansvarsfull. Jag gillar när det är mycket jobb. Jag lär mig saker snabbt. (Jag kan inte prata, men jag kan jobba!)
+
+Jag tycker om musik, filmer och böcker. Jag gillar att dansa.
+
+- Vad trevligt! Jag tycker också om det! Kan du berätta om din utbildning?
+
+- Javisst! Jag har två universitetsutbildningar, som ekonom och som svetsare. Jag har också kortare kurser inom ledarskap, specifika programvaror och mycket annat. Jag har körkort.
+
+- Spännande! Vi behöver det! Kan du säga lite kort om dina tidigare arbeten?
+
+- Jag har jobbat i tjugo år på Stålverk i Mariupol. Jag började som administratör och ekonom, men sedan jobbade jag som förman och projektledare på olika avdelningar. Jag älskade mitt jobb.
+
+- Tack! Det var verkligen trevligt att prata med dig! Vi hör av oss!
+
+- Hejdå!
 
 
 ### Grammatik 10
@@ -428,16 +510,38 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 11. 
+## 11. Dricker du kaffe?
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 26. Hur mår du?](https://quizlet.com/696607896/%D0%A3%D1%80%D0%BE%D0%BA-26-%D0%9A%D0%B0%D0%BA-%D1%82%D1%8B-hur-mar-du-flash-cards/)
+* [Lektion 27. Kaffe med mjölk.](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)
 
 ### Text 11
 
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru|en)
+
+[Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
+
+Haa, hmmmm. Jag dricker kaffe. Välkommen till Lätt svenska med Oscar. Idag handlar det om kaffe.
+
+Okej, hej allihopa! Hur mår ni? Mår ni bra? Jag mår bra! Jag mår toppenbra!
+
+Det är morgon. Det är morgon och jag tittar ut genom fönstret … och spelar in en podcast. Jag spelar in podcast och dricker kaffe. Kaffe med mjölk (milk); kaffe med mjölk. Mjölk. Lite svårt ord… kanske... Mjölk med Ö. Ö – som ett O med två prickar över.  Som ett O med två prickar över blir Ö – mjÖlk. M-J-Ö-L-K, haha. Kaffe. Kaffe är enkelt. Kaffe är lätt att säga. Kaffe med mjölk, hmmm.
+
+Jag måste dricka kaffe. Dricker du kaffe? Jag måste dricka kaffe… måste dricka kaffe varje morgon. Annars går det inte, annars kommer jag inte igång.  Så jag dricker kaffe varje morgon. Så dricker jag kaffe med lite mjölk. Hmmm. Men det går bra med svart kaffe också. Svart kaffe – kaffe utan nånting. Kaffe med ingenting i. Svart kaffe.
+
+Hur dricker du helst ditt kaffe? Dricker du svart kaffe? Kaffe med mjölk? Cappucino? Kaffe latte? Ehhhm. Hmmm. Espresso? Dubbel espresso? Trippel espresso? Hahaha! Jättepigg! Mycket energi, hmm! Jag dricker kaffe med lite mjölk. Ganska stor kopp! Och inte jättevarmt. Inte som hmmm Starbucks eller MacDonalds – jätte-jättevarmt, så att man inte kan dricka sitt kaffe… på länge. Haha. Måste vänta tills det svalnat lite grann, hmmm.
+
+Kaffe …ehn.. ingår, kaffe ska vara med - i fika. Vi fikar ju mycket i Sverige, på svenska arbetsplatser, i skolor – nja, inte i skolor, kanske… Högskolor, universitet, kaffe, fika, på jobbet. Fika.
+
+- Vill du ha lite fika?
+
+- Jaaah, tack, gärna!  
+
+Kaffe. Kaffe som ingår. Kaffe ska alltid va(ra) med. Hmmm. Men det är ok, om man inte gillar kaffe, så är det helt okej. Man kan dricka något annat. Man kan dricka te, vatten, cola, eller vad man nu vill. Men-men. Nu ska jag dricka mera kaffe.
+
+Tack för att du lyssnar på Lätt svenska med Oscar. Ha en bra dag! Vi hörs igen snart! Hejdå, hejdå, hejdå.
 
 
 ### Grammatik 11
@@ -445,15 +549,57 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 12. 
+## 12. Att köpa kläder 
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 28. Damkläder.](https://quizlet.com/697354776/%D0%A3%D1%80%D0%BE%D0%BA-28-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD-flash-cards/)
+* [Lektion 30. I klädaffären.](https://quizlet.com/697550765/%D0%A3%D1%80%D0%BE%D0%BA-30-%D0%92-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B-flash-cards/)
+* [Lektion 31. Färger etc.](https://quizlet.com/697553276/%D0%A3%D1%80%D0%BE%D0%BA-31-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80-flash-cards/)
 
 ### Text 12
+
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru|en)
+
+- Hej, jag behöver kläder för en kvinna, damkläder.
+
+- Är det vårkläder du behöver? Eller sommarkläder?
+
+- Både och. Har ni jeans och shorts?
+
+- Vilken storlek?
+
+- L - large. Eller kanske M - medel. Det funkar också med storlek 40-42.
+
+- Javisst! Jag ska kolla. Vilken färg?
+
+- Jag vill gärna ha blå jeans, och svarta shorts.
+
+- Prova de här.
+
+- Tack! Har ni även T-shirts? Jag vill gärna ha ett par vita och några svarta.
+
+- Vänta lite. Jag har några röda och gröna. Men du vill inte ha dessa, eller hur? Här finns vita och svarta. Varsågod.
+
+- Tack! Jag vill även ha en lätt vindjacka och en keps.
+
+- Visst! Här kommer dem. Varsågod.
+
+- Tack! Jag tycker att de här är snygga! Men de andra passade inte.
+
+- Ja, de här passar dig jättebra! Vad var fel på de andra?
+
+- Vissa sitter inte bra eller har fel storlek eller fel model.
+
+- Okey, jag tar dem som du inte vill ha.
+
+- Tack! Kan du hjälpa mig även med träningskläder? Typ träningsleggins eller träningsbyxor? Och ett par sportbehåer och sporttoppar.
+
+- Absolut! Här kommer några. Det är bara att välja.
+
+- Tack för hjälpen! Hejdå!
+
+- Välkommen åter!
 
 
 
@@ -462,16 +608,56 @@ Ordlektioner:
 
 _____________________________________________________________________________________
 
-## 13. 
+## 13. I kläd- och skoaffären
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* 
+* [Lektion 29. Herrkläder.](https://quizlet.com/697428906/%D0%A3%D1%80%D0%BE%D0%BA-29-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD-flash-cards/)
+* [Lektion 32. I kläd- och skoaffären.](https://quizlet.com/698233958/%D0%A3%D1%80%D0%BE%D0%BA-32-%D0%9E%D0%B1%D1%83%D0%B2%D1%8C-%D0%B8-%D0%BF%D1%80-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-13-flash-cards/)
 
 ### Text 13
 
+[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru|en)
+
+- Hej, har ni herrkläder?
+
+- Hej, ja, javisst! Vad behöver du?
+
+- Jag behöver lätta sommarbyxor, helst mörka. Och två par jeans, blå eller svarta. Har ni kanske även shorts?
+
+- Vad har du för storlek?
+
+- Hmmm, jag har storlek 33, tror jag. Jag är osäker. Har ni storlek M - medel - för män?
+
+- Jag kollar. Behöver du skjortor?
+
+- Ja, gärna! Helst blå eller grå.
+
+- Här är några par jeans och några skjortor, du kan prova på dig och välja. Hoppas något passar dig.
+
+- Tack! Jag behöver även träningskläder - träningsbyxor och några T-shirts.
+
+- Du kan titta själv här. Här är några hyllor med träningskläder för män.
+
+- Har ni kanske badbyxor?
+
+- Här finns dem. Titta gärna. Hoppas du hittar något för dig.
+
+- Jag behöver även sommarskor. Har ni bekväma lätta sneakers i svart för promenader? Och ett par sneakers för träning?
+
+- Hmmm. Lätta sneakers i svart... Jag har blå, vita, flerfärgade. Mörkgrå, kanske?
+
+- Ja, det går bra med mörkgrå också. Jag har storlek 42-43.
+
+- Varsågod och prova! Provrum ligger där borta. Säg till om du behöver hjälp.
+
+- Ja, tack!
+
+- Behöver du en påse? Här är papperspåsar och plastpåsar.
+
+- Tack för hjläpen!
+
+- Inga problem!
 
 
 ### Grammatik 13
