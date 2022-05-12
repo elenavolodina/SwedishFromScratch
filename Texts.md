@@ -447,23 +447,15 @@ Alla ansökan behöver personuppgifter:
 
 Testa att fylla i tabellen med dina personuppgifter:
 
-förnamn 
-
-efternamn 	
-
-födelsedatum 
-
-dossiernummer 
-
-medborgarskap 
-
-kön 
-
-gatuadress 
-
-postnummer 	
-
-ort 	 
+* förnamn 
+* efternamn 	
+* födelsedatum 
+* dossiernummer 
+* medborgarskap 
+* kön 
+* gatuadress 
+* postnummer 	
+* ort 	 
 
 
 ### Grammatik 09
