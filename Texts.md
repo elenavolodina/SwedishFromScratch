@@ -353,7 +353,7 @@ ________________________________________________________________________________
 **Ordlektioner i Quizlet**
 
 * [Lektion 20. Månader. Årstider.](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)
-* [Leektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
+* [Lektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
 
 ### Text 07
 
