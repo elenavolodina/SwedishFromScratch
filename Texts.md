@@ -93,7 +93,7 @@ ________________________________________________________________________________
 
 ## 01. Vad heter du?
 
-**Ordlektioner**
+**Ordlektioner i Quizlet**
 
 * [**Lektion 1.** Hej, etc.](https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/)
 * [**Lektion 2.** Siffror 1-13](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/)
@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 ### Text 01
 
-[*Open in Clilstore.eu *](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
 - Hej! Vad heter du? Jag heter Sven.
 - Hej! Jag heter Oleksandr.
@@ -142,16 +142,16 @@ ________________________________________________________________________________
 
 ## 02. Kronprinsessan Victoria
 
-Text: https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en
+**Ordlektioner i Quizlet**:
 
-Ordlektioner:
-
-* Familj 1: https://quizlet.com/686391035/%D0%A3%D1%80%D0%BE%D0%BA-4-flash-cards/
-* Familj 2 & siffror 14-20: https://quizlet.com/686408178/%D0%A3%D1%80%D0%BE%D0%BA-6-flash-cards/
-* Siffror 21+ : https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/
-* Familj 3; hon-han-de: https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/
+* [Lektion 4. Familj 1](https://quizlet.com/686391035/%D0%A3%D1%80%D0%BE%D0%BA-4-flash-cards/)
+* [Lektion 6. Familj 2 & siffror 14-20](https://quizlet.com/686408178/%D0%A3%D1%80%D0%BE%D0%BA-6-flash-cards/)
+* [Lektion 8. Siffror 21+](https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/)
+* [Lektion 9. Familj 3; hon-han-de](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/)
 
 ### Text 02
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en)
 
 Victoria, 45 år gammal, är Sveriges kronprinsessa. Hon är dotter till kung Carl XVI Gustaf och drottning Silvia. Hon har en bror, prins Carl Philip och en syster, prinsessan Madeleine.
 
@@ -177,14 +177,14 @@ ________________________________________________________________________________
 
 ## 03. När går bussen?
 
-Text: https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* Klockan: https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/
-* Dagrutin: https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/
+* [Lektion 10. Klockan.](https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/)
+* [Lektion 11. Dagrutin.](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/)
 
 ### Text 03
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en)
 
 Ihor studerar svenska vid en skola på Lindholmen i Göteborg. Han åker till skolan varje dag. Lektionerna startar klockan (kl.) 9.30.
 
@@ -228,14 +228,14 @@ ________________________________________________________________________________
 
 ## 04. Vad gör du? Vem vill du bli? Vad är din hobby?
 
-Text: https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
-
-* veckodagar: https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/
+* [Lektion 5. Veckodagar](https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/)
 * STOP LESSON 12
 
 ### Text 04
+
+[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en)
 
 Vi har en stor familj.
 
