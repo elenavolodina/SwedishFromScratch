@@ -93,9 +93,7 @@ ________________________________________________________________________________
 
 ## 01. Vad heter du?
 
-[**Text**](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
-
-Ordlektioner:
+**Ordlektioner**
 
 * [**Lektion 1.** Hej, etc.](https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/)
 * [**Lektion 2.** Siffror 1-13](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/)
@@ -103,6 +101,8 @@ Ordlektioner:
 * [**Lesson 7.** Språk, etc.](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/)
 
 ### Text 01
+
+[*Open in Clilstore.eu *](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
 - Hej! Vad heter du? Jag heter Sven.
 - Hej! Jag heter Oleksandr.
@@ -123,7 +123,7 @@ Ordlektioner:
 
 ![image](https://user-images.githubusercontent.com/31984909/167302724-bfc22b8a-1d9d-4c33-8250-aaa86f7ed138.png)
 
-!### Ord att fokusera på?
+<!- ### Ord att fokusera på? -->
 
 
 ### Grammatik 01
