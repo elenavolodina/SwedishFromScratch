@@ -93,14 +93,14 @@ ________________________________________________________________________________
 
 ## 01. Vad heter du?
 
-Text: https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en
+[**Text**](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
 Ordlektioner:
 
-* Hej, etc.: https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/
-* Siffror 1-13: https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/
-* God morgon; jag har: https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/
-* Språk, etc: https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/
+* [**Lektion 1.** Hej, etc.](https://quizlet.com/686185459/%D0%A3%D1%80%D0%BE%D0%BA-1-flash-cards/)
+* [**Lektion 2.** Siffror 1-13](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/)
+* [**Lektion 3.** God morgon; jag har](https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/)
+* [**Lesson 7.** Språk, etc.](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/)
 
 ### Text 01
 
