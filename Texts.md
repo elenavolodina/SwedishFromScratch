@@ -230,8 +230,12 @@ ________________________________________________________________________________
 
 **Ordlektioner i Quizlet**
 
-* [Lektion 5. Veckodagar](https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/)
-* STOP LESSON 12
+* [Lektion 5. Veckodagar.](https://quizlet.com/686394414/%D0%A3%D1%80%D0%BE%D0%BA-5-flash-cards/)
+* [Lektion 12. Pronomen, objektform.](https://quizlet.com/690468663/%D0%A3%D1%80%D0%BE%D0%BA-12-%D0%9C%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/)
+* [Lektion 13. Yrken.](https://quizlet.com/690702769/%D0%A3%D1%80%D0%BE%D0%BA-13-%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8-flash-cards/)
+* [Lektion 14. Possessiva pronomen](https://quizlet.com/690955754/%D0%A3%D1%80%D0%BE%D0%BA-14-%D0%9F%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F-flash-cards/)
+* [Lektion 15. Verbfraser](https://quizlet.com/691038864/%D0%A3%D1%80%D0%BE%D0%BA-15-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-flash-cards/)
+* [Lektion 16. Ord till text 4](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/)
 
 ### Text 04
 
