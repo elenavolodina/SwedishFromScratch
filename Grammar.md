@@ -38,7 +38,7 @@ Grupp 4 har oregelbundna och starka verb. Dessa verb måste man lära utantill.
 | **Grupp** |  Imperativ | Infinitiv | Presens  | Preteritum | Supinum  |
 |:----------|:-----------|:----------|:---------|:-----------|:---------|
 |**1**      | -**a**     | -**a**    | -**ar**  |-**ade**    |-**at**   |
-|           | tal**a**!  | tal**a**  |tal**ar** |tal**ade**  |tal**at** |
+|           | tal**a**!  | tal_a_    |tal_ar_   |tal_ade_    |tal_at_   |
 |**2**      | - !        | -**a**    |-**r/er** | -**de/te** |-**t**    |     
 |2a         |ring!       |ring**a**  |ring**er**| ring**de** |ring**t** |  
 |           |kör!        |kör**a**   |kör       |kör**de**   |kör**t**  | 
