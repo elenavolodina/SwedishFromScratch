@@ -17,11 +17,17 @@ ________________________________________________________________________________
   
   - [Presens](#presens)
 
+[3. Pronomen](#2-pronomen) 
+  
+  - [Presens](#presens)
+
 
 
 ## 1. Verb. Глагол.
 
 ### Verb grupper 1-4
+
+Глаголы 
 
 Verb i svenska böjs enligt fyra olika mönster. Därför tillhör varje verb en av de fyra grupperna, grupp 1-4.
 
@@ -57,22 +63,38 @@ Preteritum - Прошедшее время
 
 Supinum - Перфектная форма глагола
 
+_____________________________________________________________________________________
+
+## 2. Substantiv. Существительное.
+
+### En och ett
+
+Källa: https://sfipatxi.wordpress.com/2017/06/13/substantiv/
+
+Svenska substantiv delas in i två genus och då säger man att det är ett n-ord (utrum) eller ett t-ord (neutrum). Exempel: en kvinna, en familj, ett barn, ett hus, flera kvinnor, flera familjer, många barn, många hus…
+
+Adjektiv och pronomen böjs efter substantivets genus och därför är det viktigt att veta om substantivet är ett n-ord eller ett t-ord. Det finns ingen regel för om ett ord är ”en” eller ”ett”.  Du måste lära dig det till varje nytt substantiv, men tänkt på att de flesta (ca 80%) substantiv är n-ord. Exempel: en kvinna, en flicka, en pojke, en bil, en skola…
+
+Ungefär 20% av substantiven är t-ord. Exempel: ett hus, ett bord, ett barn, ett arbete, ett rum…
+
+Ibland kan man också säga ”mycket” eller ”lite” framför ett substantiv. Då handlar det om saker som man inte kan räkna. Exempel: mycket kaffe, mycket sand, mycket vatten, lite kaffe, lite socker, lite mjölk…
+
 
 _____________________________________________________________________________________
 
-## 2.Pronomen. Местоимения.
+## 3.Pronomen. Местоимения.
 
 ### Личные местоимения. Personliga pronomen.
 
 | **Subjektspronomen** |  Possessiva pronomen | Objektspronomen | Reflexiva pronomen |
 |:-----------------------|:--------------------|:----------------|:----------------|
-|**Singular***||||
+|**Singular**||||
 |jag [*я*]               |min, mitt, mina [*мой, моя, мои*] |mig [*мне, меня, мной, и пр.*] | |
 |du  [*ты*]              |din, ditt, dina [*твой, твоя, твои*] |dig [*тебе, тебя, тобой и пр.*]| |
 |han [*он*]              |hans [*его*]         |honom [*ему*] |sin, sitt, sina [-**ся**]|
 |hon [*она*]             |hennes [*её*]        |henne [*ей*] |sin, sitt, sina [-**ся**]|
 |den, det  [*оно*]       |dess   [*его/её/этого*] |den, det [*ему, ей, этому*] |sin, sitt, sina [-**ся**]|
-|**Plural***||||
+|**Plural**||||
 |vi   [*мы*]             |vår   [*наш, наша, наши*] |oss [*нам*] ||
 |ni   [*вы*]             |er    [*ваш, ваша, ваши*] |er [*вам*] ||
 |de   [*они*]            |deras [*их*]               |dem [*им*] |sin, sitt, sina [-**ся**]|
