@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
   - [Verb grupper 1-4](#verb-grupper-1-4)
  
-[2. Substantiv](#2-substantiv) 
+[2. Substantiv. Существительное.](#2-substantiv-существительное) 
   
-  - [Presens](#presens)
+  - [En och ett](#en-och-ett)
 
 [3. Pronomen](#2-pronomen) 
   
