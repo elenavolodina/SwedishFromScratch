@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
   - [Verb grupper 1-4](#verb-grupper-1-4)
  
-[2. Substantiv. Существительное.](#2-substantiv-существительное) 
+[2. Substantiv](#2-substantiv) 
   
-  - [En och ett](#en-och-ett)
+  - [Presens](#presens)
 
 [3. Pronomen](#2-pronomen) 
   
@@ -38,7 +38,7 @@ Grupp 4 har oregelbundna och starka verb. Dessa verb måste man lära utantill.
 | **Grupp** |  Imperativ | Infinitiv | Presens  | Preteritum | Supinum  |
 |:----------|:-----------|:----------|:---------|:-----------|:---------|
 |**1**      | -**a**     | -**a**    | -**ar**  |-**ade**    |-**at**   |
-|           | tal**a**!  | tal_a_    |tal_ar_   |tal_ade_    |tal_at_   |
+|           | tal**a**!  | tal*a*    |tal*ar*   |tal*ade*    |tal*at*   |
 |**2**      | - !        | -**a**    |-**r/er** | -**de/te** |-**t**    |     
 |2a         |ring!       |ring**a**  |ring**er**| ring**de** |ring**t** |  
 |           |kör!        |kör**a**   |kör       |kör**de**   |kör**t**  | 
