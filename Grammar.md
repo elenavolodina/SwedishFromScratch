@@ -193,9 +193,98 @@ Man använder också obestämd form efter:
 
 ### Plural och bestämd form. Множественное число и определенная форма.
 
-Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffixer. Man ser återkommande suffixer i plural ich i bestämda förmer. 
+*Källa: https://sfipatxi.wordpress.com/2017/08/10/substantivets-pluralandelser/*
 
-В шведском есть пять основных групп существительных
+**RYSKA**
+
+Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffixer. Man ser återkommande suffixer i plural och i bestämda former. 
+
+В шведском есть пять основных групп существительных. Они изменяются по-разному во множественом числе и в определенной форме. 
+
+
+| **Множественное число** |  Множественное число | 
+|  неопределенная форма  |  определенная форма |
+|:----------|:-----------|
+| -or 	| -na  |
+| -ar   |	-na  |
+| -er   |	-na  |
+| -n 	  |  -a  |
+| – 	  | -en/na |
+
+Например:
+
+* en flicka - två flick*or*
+* en säng - många säng*ar*
+
+*Группа 1: Окончание множественного числа -or*
+
+”En ord”, заканчивающееся на –a в единственном числе в неопределенной форме. Например:
+
+|Ед.ч. неопр.ф. | Ед.ч. опр.ф. |Мн.ч. неопр.ф. | Мн.ч. опр.ф.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+n           | 	+or 	       |+na           |
+|En flicka 	    |flickan       |	flickor      |	flickorna   |
+|En tavla 	    |tavlan        |	tavlor       |	tavlorna    |
+
+
+*Группа 2: Окончание множественного числа -ar*
+
+”En ord”, заканчивающееся НЕ на –a в единственном числе в неопределенной форме. Например:
+
+|Ед.ч. неопр.ф. | Ед.ч. опр.ф. |Мн.ч. неопр.ф. | Мн.ч. опр.ф.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+n           | 	+ar 	       |+na           |
+|En pojke 	    |pojken        |	pojkar       |	pojkarna    |
+|En stol 	      |stolen        |	stolar       |	stolarna    |
+
+
+*Группа 3: Окончание множественного числа -er*
+
+”En ord” или "ett ord", из нескольких слогов с ударением на последний слог. Часто - это слова, заимствованные из других языков. Например:
+
+|Ед.ч. неопр.ф. | Ед.ч. опр.ф. |Мн.ч. неопр.ф. | Мн.ч. опр.ф.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+en          | 	+er 	       |+na           |
+|En telefon 	  |telefonen     |	telefoner    |	telefonerna |
+|Ett museum	    |museet        |	museer       |	museerna    |
+
+Внимание! К этой группе также относятся существительные, которые изменяют корневую гласную (a-ä; o-ö). Примеры:
+
+*     en hand, handen, två händer, händerna
+*     en tand, tanden, två tänder, tänderna
+*     ett land, landet, två länder, länderna
+*     en far/fader, fadern, två fäder, fäderna
+*     en fot, foten, två fötter, fötterna
+*     en bok, boken, två böcker, böckerna
+*     en son, sonen, två söner, sönerna
+*     en bror/broder, brodern, två bröder, bröderna
+*     en dotter, dottern, två döttrar, döttrarna
+*     en mor/moder, modern, två mödrar, mödrarna
+
+*Группа 4: кончание множественного числа -n*
+
+”Ett ord”, заканчивается на гласную. Например:
+
+|Ед.ч. неопр.ф. | Ед.ч. опр.ф. |Мн.ч. неопр.ф. | Мн.ч. опр.ф. |
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+t           | 	+n 	         |+na           |
+|Ett äpple   	  |äpplet        |	äpplen       |	äpplena     |
+|Ett samhälle   |samhället     |	samhällen    |	samhällena  |
+
+
+
+*Группа 5: Нулевое окончание множественного числа*
+
+”Ett ord” som slutar på konsonant och ”en ord” som slutar på -are, -er, -ande, -ende. Dessa ord heter samma i singular och plural (en lärare, två lärare). Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+et/n        | 	-	           |+en/na        |
+|Ett brev   	  |brevet        |	brev         |	breven      |
+|En lärare      |läraren       |	lärare       |	lärarna     |
+
+
+*Сводная таблица*
 
 | **Grupp** |  Singular obestämd | Singular bestämd | Plural obestämd  | Plural bestämd |
 |:----------|:-----------|:----------|:---------|:-----------|:---------|
@@ -204,7 +293,8 @@ Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffix
 |**2**      | -          | -**en**    |-**ar**  | -**arna**   |   
 |           |(en) säng   |säng*en*    |säng*ar*  | säng*arna* |
 |**3**      | -          |-**en**    |-**er**    |-**erna**  | 
-|           |(en) madrass|madrass*en*|madrass*er*|madrass*erna*|
+|3a         |(en) madrass|madrass*en*|madrass*er*|madrass*erna*|
+|3b         |(ett) museum|muse*et*   |muse*er*  |muse*erna*|
 |**4**      | -          |-**et**    |-**n**    |-**ena**  | 
 |           |(ett) täcke |täcke*t*   |täcke*n*  |täcke*na* |
 |**5**      |            |           | -        |          |
@@ -212,7 +302,110 @@ Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffix
 |5b         |(en) läkare |läkar*en*  |läkare    |läkar*na* |
 
 
+**SVENSKA**
 
+Substantiv heter olika om de är en (singular) eller flera (plural). Exempel:
+
+*     Jag känner en flicka. Hon heter Sara.
+*     Jag känner två flickor. De heter Sara och Eva.
+
+Okej, men… varför heter det två flickor och två pojkar?
+
+Substantiv kan också delas in i olika grupper efter hur de böjs i plural, dvs vilka olika ändelser de får när det handlar om flera stycken. Det finns fem olika pluraländelser för substantiv i svenskan:
+
+Plural obestämd form --	Plural bestämd form
+
+* -or 	-na
+* -ar 	-na
+* -er 	-na
+* -n 	  -a
+* – 	 -en/na
+
+
+*Grupp 1: Pluraländelse -or*
+
+”En ord”, slutar på –a i singular obestämd form. Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+n           | 	+or 	       |+na           |
+|En flicka 	    |flickan       |	flickor      |	flickorna   |
+|En tavla 	    |tavlan        |	tavlor       |	tavlorna    |
+
+
+*Grupp 2: Pluraländelse -ar*
+
+”En ord”, slutar inte på –a i singular obestämd form. Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+n           | 	+ar 	       |+na           |
+|En pojke 	    |pojken        |	pojkar       |	pojkarna    |
+|En stol 	      |stolen        |	stolar       |	stolarna    |
+
+*Grupp 3: Pluraländelse -er*
+
+”En ord” med betoning på sista stavelsen och ”ett ord” med flera stavelser och betoning på sista stavelsen. Ofta handlar det om utländska/internationella ord. Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+en          | 	+er 	       |+na           |
+|En telefon 	  |telefonen     |	telefoner    |	telefonerna |
+|Ett museum	    |museet        |	museer       |	museerna    |
+
+
+Obs! Några vanliga substantiv i denna grupp får vokalbyte (a-ä; o-ö). Exempel:
+
+*     en hand, handen, två händer, händerna
+*     en tand, tanden, två tänder, tänderna
+*     ett land, landet, två länder, länderna
+*     en far/fader, fadern, två fäder, fäderna
+*     en fot, foten, två fötter, fötterna
+*     en bok, boken, två böcker, böckerna
+*     en son, sonen, två söner, sönerna
+*     en bror/broder, brodern, två bröder, bröderna
+*     en dotter, dottern, två döttrar, döttrarna
+*     en mor/moder, modern, två mödrar, mödrarna
+
+*Grupp 4: Pluraländelse -n*
+
+”Ett ord”, slutar på vokal. Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+t           | 	+n 	         |+na           |
+|Ett äpple   	  |äpplet        |	äpplen       |	äpplena     |
+|Ett samhälle   |samhället     |	samhällen    |	samhällena  |
+
+
+
+*Grupp 5: Ingen Pluraländelse*
+
+”Ett ord” som slutar på konsonant och ”en ord” som slutar på -are, -er, -ande, -ende. Dessa ord heter samma i singular och plural (en lärare, två lärare). Exempel:
+
+|Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
+|:--------------|:-------------|:--------------|:-------------|
+|               |	+et/n        | 	-	           |+en/na        |
+|Ett brev   	  |brevet        |	brev         |	breven      |
+|En lärare      |läraren       |	lärare       |	lärarna     |
+
+
+*Allt-i-ett tabell*
+
+| **Grupp** |  Singular obestämd | Singular bestämd | Plural obestämd  | Plural bestämd |
+|:----------|:-----------|:----------|:---------|:-----------|:---------|
+|**1**      | -**a**     | -**an**    | -**or** |-**orna**    |
+|           |(en) lamp*a*| lamp*an*   |lamp*or* |lamp*orna*   |
+|**2**      | -          | -**en**    |-**ar**  | -**arna**   |   
+|           |(en) säng   |säng*en*    |säng*ar*  | säng*arna* |
+|**3**      | -          |-**en**    |-**er**    |-**erna**  | 
+|3a         |(en) madrass|madrass*en*|madrass*er*|madrass*erna*|
+|3b         |(ett) museum|muse*et*   |muse*er*  |muse*erna*|
+|**4**      | -          |-**et**    |-**n**    |-**ena**  | 
+|           |(ett) täcke |täcke*t*   |täcke*n*  |täcke*na* |
+|**5**      |            |           | -        |          |
+|5a         |(ett) lakan |lakan*et*  |lakan     |lakan*en* |
+|5b         |(en) läkare |läkar*en*  |läkare    |läkar*na* |
 
 _____________________________________________________________________________________
 
