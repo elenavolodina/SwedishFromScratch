@@ -199,14 +199,14 @@ Man använder också obestämd form efter:
 
 В шведском есть пять основных групп существительных. Они изменяются по-разному во множественом числе и в определенной форме. 
 
-| **Множественное число** |  Множественное число | 
-|  неопределенная форма  |  определенная форма |
-|:----------|:-----------|
-| -or 	| -na  |
-| -ar   |	-na  |
-| -er   |	-na  |
-| -n 	  |  -a  |
-| – 	  | -en/na |
+|№ Гр.| **Множественное число** |  Множественное число | 
+|   |  неопределенная форма  |  определенная форма |
+|:--|:----------|:-----------|
+|1. | -or 	| -na  |
+|2. | -ar   |	-na  |
+|3. | -er   |	-na  |
+|4. | -n 	  |  -a  |
+|5. | – 	  | -en/na |
 
 Например:
 
@@ -311,7 +311,7 @@ Okej, men… varför heter det två flickor och två pojkar?
 
 Substantiv kan också delas in i olika grupper efter hur de böjs i plural, dvs vilka olika ändelser de får när det handlar om flera stycken. Det finns fem olika pluraländelser för substantiv i svenskan:
 
-Plural obestämd form --	Plural bestämd form
+*Plural obestämd form --	Plural bestämd form*
 
 1. -or 	-na
 2. -ar 	-na
