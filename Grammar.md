@@ -128,7 +128,7 @@ Källa: https://sfipatxi.wordpress.com/2017/06/14/obestamd-och-bestamd-form/
 
 Поэтому очень важно знать, является ли слово _n-ord_ или _t-ord_.
 
-Когда употребляются неопределенная и определенная формы?
+*Когда употребляются неопределенная и определенная формы?*
 
 Когда вы говорите о чем-то вообще, то используется неопределенная форма: 
 
@@ -167,7 +167,7 @@ Bestämd form bildas med hjälp av en bestämd slutartikel, det vill säga en ä
 
 Det är alltså viktigt att först veta om ordet är ett n-ord eller ett t-ord.
 
-Obestämd och bestämd form – när?
+*Obestämd och bestämd form – när?*
 
 När man inte pratar om något speciellt står ordet i obestämt form. Exempel:
 
@@ -197,10 +197,7 @@ Man använder också obestämd form efter:
 
 **RYSKA**
 
-Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffixer. Man ser återkommande suffixer i plural och i bestämda former. 
-
 В шведском есть пять основных групп существительных. Они изменяются по-разному во множественом числе и в определенной форме. 
-
 
 | **Множественное число** |  Множественное число | 
 |  неопределенная форма  |  определенная форма |
@@ -275,7 +272,7 @@ Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffix
 
 *Группа 5: Нулевое окончание множественного числа*
 
-”Ett ord” som slutar på konsonant och ”en ord” som slutar på -are, -er, -ande, -ende. Dessa ord heter samma i singular och plural (en lärare, två lärare). Exempel:
+Сюда относятся ”ett ord”, заканчивающиеся на согласную, и ”en ord”, заканчивающиеся на -are, -er, -ande, -ende. Эти существительные имеют одинаковую форму в единственном и множественном числе (en lärare, två lärare). Примеры:
 
 |Sg. obest.f.   | Sg. best.f.  |Pl. obest.f.   | Pl. best.f.|
 |:--------------|:-------------|:--------------|:-------------|
@@ -304,6 +301,7 @@ Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffix
 
 **SVENSKA**
 
+Svenska substantiv delas i fem grupper. De tar olika plural och bestämda suffixer. Man ser återkommande suffixer i plural och i bestämda former. 
 Substantiv heter olika om de är en (singular) eller flera (plural). Exempel:
 
 *     Jag känner en flicka. Hon heter Sara.
@@ -315,11 +313,11 @@ Substantiv kan också delas in i olika grupper efter hur de böjs i plural, dvs 
 
 Plural obestämd form --	Plural bestämd form
 
-* -or 	-na
-* -ar 	-na
-* -er 	-na
-* -n 	  -a
-* – 	 -en/na
+1. -or 	-na
+2. -ar 	-na
+3. -er 	-na
+4. -n 	-a
+5. –  	-en/na
 
 
 *Grupp 1: Pluraländelse -or*
