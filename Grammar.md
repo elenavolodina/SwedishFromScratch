@@ -17,6 +17,7 @@ ________________________________________________________________________________
   - [En och ett](#en-och-ett)
   - [Obestämd och bestämd form. Неопределенная и определенная форма.](#obestämd-och-bestämd-form-неопределенная-и-определенная-форма)
   - [Plural och bestämd form. Множественное число и определенная форма.](#plural-och-bestämd-form-множественное-число-и-определенная-форма)
+  - [Substantivets genitiv. Притяжательная форма существительных.](#substantivets-genitiv-притяжательная-форма-существительных)
 
 [3. Pronomen. Местоимения.](#3-pronomen-местоимения) 
   
@@ -422,6 +423,87 @@ Substantiv kan också delas in i olika grupper efter hur de böjs i plural, dvs 
 |**5**      |            |           | -        |          |
 |5a         |(ett) lakan |lakan*et*  |lakan     |lakan*en* |
 |5b         |(en) läkare |läkar*en*  |läkare    |läkar*na* |
+
+
+_____________________________________________________________________________________
+
+### Substantivets genitiv. Притяжательная форма существительных.
+
+*Källa: https://sfipatxi.wordpress.com/2017/08/27/genitiv/*
+
+_____________________________________________________________________________________
+
+**РУССКИЙ**
+
+Притяжательная форма существительных выражает принадлежность или владение чем-то. В шведском это выражается с помощью так называемого *s-genitiv*а. Genetiv = притяжательная форма/падеж. 
+
+Чтобы построить притяжательную форму, надо добавить суффикс *–s* к имени собственному или к существительному в определенной форме. Существительное, которое следует за этой формой всегда стоит в неопределенной форме (неважно, в единственном или множественном числе). 
+
+|                                   |+ s-genitiv  |+ существительное в неопр.форме| ПЕРЕВОД |
+|:----------------------------------|:----------|:----------|:--------------------|
+|имя собственное + *-s*             | Lauras    | bror      |брат Лауры           |
+|имя собственное + *-s*             | Svetas    | arbete    |Светина работа       |
+|существительное в опр.форме + *-s* | familjens | hus       |дом (этой) семьи     |
+|существительное в опр.форме + *-s* | barnets   | byxor     |брюки (этого) ребенка|
+
+
+Если после *s-genitiv*а употребляется прилагательное, оно стоит в определенной форме (то есть, с суффиксом *-a* в конце). Существительное, которое следует за *s-genitiv*ом и прилагательным, стоит по-прежнему в неопределенной форме. 
+
+|                                   |s-genitiv  | + прилагательное в опр. форме |+ существительное в неопр.форме| ПЕРЕВОД |
+|:----------------------------------|:----------|:----------|:----------|:----------------------------|
+|имя собственное + *-s*             | Lauras    |lill*a*    | bror      |младший брат Лауры           |
+|имя собственное + *-s*             | Svetas    |ny*a*      | arbete    |Светина новая работа         |
+|существительное в опр.форме + *-s* | familjens |stor*a*    | hus       |большой дом (этой) семьи     |
+|существительное в опр.форме + *-s* | barnets   |röd*a*     |byxor      |красные брюки (этого) ребенка|
+
+Альтернативна *s-genitiv*у - выражения с использованием предлогов - обычно ”på” или ”till”, особенно если что-то является частью чего-то). Например:
+
+* taket på huset = husets tak (Крыша дома)
+* locket på/till burken = burkens lock (Крышка банки)
+
+
+**ВНИМАНИЕ!** Есть так называемые "застывшие" выражения с использованием *till* + *s-genitiv*а в ед.числе, где притяжательная форма не имеет значения собственности. Эти выражения надо просто запомнить наизусть. Например:
+
+*    sätta sig till bords = sätta sig vid bordet (Сесть за стол)
+*    gå till fots = vandra (идти пешком)
+*    gå till sängs = gå och lägga sig (ложиться спать)
+*    bege sig till havs/sjöss = åka ut på havet/sjön (отправиться на море)
+*    få något till skänks = få något som gåva (получить что-то в подарок)
+
+_____________________________________________________________________________________
+
+**SVENSKA**
+
+
+Ägande i svenskan uttrycks vanligtvis med hjälp av så kallat s-genitiv. Genitiv talar alltså om vem som äger eller har något.
+
+S-genitivformen bildas genom att lägga till ett –s i slutet av egennamn eller substantiv i bestämd form. Substantivet som följer genitivformen skrivs i obestämd form. Exempel:
+
+*    Lauras hund
+*    Marias rum
+*    familjens hus
+*    lärarens bil
+
+Om detta substantiv som följer på genitivformen föregås av ett adjektiv skrivs adjektivet i bestämd form (markeras med bokstaven a). Exempel:
+
+*    Lauras snälla hund
+*    Marias röda rum
+*    familjens stora hus
+*    lärarens nya bil
+
+Istället för genitiv använder man ofta ett uttryck med preposition (vanligen ”på” eller ”till”) när man vill tala om vad något är en del av. Exempel:
+
+*    taket på huset = husets tak
+*    locket på/till burken = burkens lock
+
+Obs! Vissa uttryck har genitiv av obestämd form singular efter ”till”. Exempel:
+
+*    sätta sig till bords = sätta sig vid bordet
+*    gå till fots = vandra
+*    gå till sängs = gå och lägga sig
+*    bege sig till havs/sjöss = åka ut på havet/sjön
+*    få något till skänks = få något som gåva
+
 
 _____________________________________________________________________________________
 
