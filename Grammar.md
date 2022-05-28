@@ -87,6 +87,154 @@ Supinum - Перфектная форма глагола (совершенный
 
 _____________________________________________________________________________________
 
+### Verb grupper
+
+Källa: https://sfipatxi.wordpress.com/2017/10/09/verb/
+_____________________________________________________________________________________
+
+**РУССКИЙ** 
+
+Глаголы рассказывают о действиях (о том что происходит, или что кто-то делает) или о состоянии и разрешении, например: 
+
+*    Det *snöar*. - *Идет* снег.
+*    Daniel *springer*. - Даниель *бежит*.
+*    Sara *är* trött. - Сара (*есть*) уставшая.
+
+
+**Формы глаголов**
+
+Шведские глаголы изменяются только по времени (но не по числу или лицу). Они имеют четыре формы:
+
+* infinitiv (grundform) - инфинитив (начальная форма) 
+* presens - настоящее время - обозначает события происходящие сейчас или в будущем.
+* preteritum (dåtid) - прошеднее время - обозначает события, произошедшие раньше
+* supinum - перфектная форма - также обозначает события, произошедшие раньше, но с некоторым отличием в значении.
+
+ВНИМАНИЕ! Настоящее время используется даже, чтобы рассказать о событиях в будущем и о повторсяющихся событиях. Например:
+
+*    Jag *åker* buss till Malmö *nu*. - Я *еду* на автобусе в Мальмё *сейсчас*. 
+*    Jag *åker* buss till Malmö *varje vecka*. - Я *еду* на автобусев в Мальмё *каждую неделю*.
+*    Jag *åker* buss till Malmö *imorgon*. - Я *поеду* на автобусе в Мальмё *завтра*.
+
+**Спряжения глаголов**
+
+Глаголы в шведском имеют 4 спряжения. Каждый глагол изменяется согласно одному из них. 
+К группам 1-3 относятся правильные глаголы, которые следуют строгой системе окончаний. 
+Группа 4 охватывает неправильные глаголы, которые надо заучить наизусть.
+
+*Grupp 1*
+
+Большинство шведских глаголов относятся к Группе 1. Все эти глаголы заканчиваются на -ar в настоящем времени и -ade в прошедшем времени. Примеры:
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –        | -r       |	-de        |-t       |
+|titta 	   |titta*r* 	|titta*de*   |titta*t* |
+|prata 	   |prata*r* 	|prata*de*   |prata*t* |
+|svara 	   |svara*r* 	|svara*de* 	 |svara*t* |
+
+Fler verb i grupp 1: städa, bada, fråga, börja, sluta, tala, arbeta, parkera, betala osv.
+
+
+_____________________________________________________________________________________
+
+**SVENSKA** 
+
+Verb berättar om en handling (vad som händer eller vad någon gör) eller om ett tillstånd, t.ex.:
+
+*    Det *snöar*.
+*    Daniel *springer*.
+*    Sara *är* trött.
+
+**Verbens former**
+
+Svenska verb böjs inte efter person utan enbart efter tempus. De kan bilda fyra olika former: infinitiv (grundform), presens, preteritum (dåtid) och supinum. Med hjälp av dessa former markerar vi om något händer nu (presens), hände tidigare (preteritum/perfekt) eller om det ska hända i framtiden (futurum).
+
+Observera! Presens används också för att prata om något som ska hända i framtiden och även om något som händer ofta. Exempel:
+
+*    Jag *åker* buss till Malmö nu.
+*    Jag *åker* buss till Malmö varje vecka.
+*    Jag *åker* buss till Malmö imorgon.
+
+**Böjning av verb**
+
+Det finns fyra olika verbgrupper på svenska. Grupp 1, 2 och 3 är regelbundna verb och grupp 4 är oregelbundna och starka verb.
+
+*Grupp 1*
+
+Majoriteten av de svenska verben ingår i denna grupp. Alla dessa verb slutar på -ar i presens och -ade i preteritum. Exempel:
+
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –        | -r       |	-de        |-t       |
+|titta 	   |titta*r* 	|titta*de*   |titta*t* |
+|prata 	   |prata*r* 	|prata*de*   |prata*t* |
+|svara 	   |svara*r* 	|svara*de* 	 |svara*t* |
+
+Fler verb i grupp 1: städa, bada, fråga, börja, sluta, tala, arbeta, parkera, betala osv.
+
+*Grupp 2*
+
+Dessa verb slutar på -r /-er i presens och -de /-te i preteritum. Observera att de verb som slutar på -te i preteritum är de som slutar på en av följande bokstäver: k, p, t, s eller x. Exempel:
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –a       | -r/-er   |-de/-te     |-t       |
+|kör*a* 	 |kö*r* 	  |kör*de*     |kör*t*   |
+|stäng*a*  |stäng*er* |stäng*de*   |stäng*t* |
+|ring*a* 	 |ring*er* 	|svara*de* 	 |svara*t* |
+|sök*a*    |sök*er*   |söka*te*    |sök*t*   |
+|läs*a* 	 |läs*er* 	|läs*te* 	   |läs*t*   |
+
+
+Fler verb i grupp 2: höra, hyra, behöva, ställa, känna, hända, använda, köpa osv.
+
+*Grupp 3*
+
+Grupp 3 kallas ofta korta verb eftersom här handlar det om verb med bara en stavelse eller verb som har sitt ursprung i verb med bara en stavelse. Dessa verb slutar också på -r i presens. De har dock lång vokal i stammen, men kort vokal i preteritum och supinum och får därför -dde i preteritum och -tt i supinum. Exempel:
+
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –        | -r       |-dde        |-tt      |
+|bo     	 |bo*r* 	  |bo*dde*     |bo*tt*   |
+|må     	 |må*r* 	  |må*dde*     |må*tt*   |
+|nå     	 |nå*r* 	  |nå*dde*     |nå*tt*   |
+|fly     	 |fly*r* 	  |fly*dde*    |fly*tt*  |
+|bero      |bero*r*   |bero*dde*   |bero*tt* |
+
+
+Fler verb i grupp 3: ro, ske, sy, spy, klä, glo osv.
+
+*Grupp 4*
+
+Grupp 4 delas in i två grupper: starka och oregelbundna verb. Oregelbundna verb följer inte ett regelbundet mönster och därför måste du lära dig deras böjningsformer utantill. Starka verb är verb som byter vokal – de följer ett mer regelbundet mönster, men ändrar ändå vokal i de olika verbformerna. Exempel på några vanliga starka och oregelbundna verb:
+
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+|dricka 	|dricker 	|drack 	|druckit|
+|få 	|får 	|fick 	|fått|
+|förstå 	|förstår 	|förstod 	|förstått|
+|ge 	|ger 	|gav 	|givit (gett)|
+|gå 	|går 	|gick 	|gått|
+|göra 	|gör 	|gjorde 	|gjort|
+|ha 	|har 	|hade 	|haft|
+|hinna 	|hinner 	|hann 	|hunnit|
+|komma 	|kommer 	|kom 	|kommit|
+|kunna 	|kan 	|kunde 	|kunnat|
+|se 	|ser 	|såg 	|sett|
+|ska 	|ska 	|skulle 	|skolat|
+|skriva 	|skriver 	|skrev 	|skrivit|
+|säga 	|säger 	|sa 	|sagt|
+|vara 	|är 	|var 	|varit|
+|veta 	|vet 	|visste 	|vetat|
+|vilja 	|vill 	|ville 	|velat|
+|äta 	|äter 	|åt 	|ätit|
+
+_____________________________________________________________________________________
+
 ## 2. Substantiv. Существительное.
 
 _____________________________________________________________________________________
