@@ -113,9 +113,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 01)
 
-**Text 1**
-
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
+**Text 1** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
 - Hej! Vad heter du? Jag heter Sven.
 - Hej! Jag heter Oleksandr.
@@ -136,10 +134,16 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/31984909/167302724-bfc22b8a-1d9d-4c33-8250-aaa86f7ed138.png)
 
-<!- ### Ord att fokusera på? -->
 
 
-### Grammatik 01
+[//]: # (  Ord att fokusera på?)
+
+
+
+
+[//]: # ( ### Grammatik 01)
+
+**Grammatik 01**
 
 * Ordföljd i frågor 
 * Ordföljd i påståenden
@@ -162,11 +166,10 @@ ________________________________________________________________________________
 * [Lektion 8. Siffror 21+](https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/)
 * [Lektion 9. Familj 3; hon-han-de](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/)
 
-**Text 2**
 
 [//]: # (### Text 02)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en)
+**Text 2** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en)
 
 Victoria, 45 år gammal, är Sveriges kronprinsessa. Hon är dotter till kung Carl XVI Gustaf och drottning Silvia. Hon har en bror, prins Carl Philip och en syster, prinsessan Madeleine.
 
@@ -174,7 +177,9 @@ Victorias man heter Daniel Westling. Han är prins Daniel av Sverige och hertig 
 
 Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är mormor till Estelle och Oscar. Kung Carl Gustaf är morfar till barnen.
 
-### Grammatik 02
+[//]: # (### Grammatik 02)
+
+**Grammatik 02**
 
 * Ordföljd, och speciellt med "och" i meningar
 * Ordna meningar till en text
@@ -197,11 +202,11 @@ ________________________________________________________________________________
 * [Lektion 10. Klockan.](https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/)
 * [Lektion 11. Dagrutin.](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/)
 
-**Text 3**
+
 
 [//]: # (### Text 03)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en)
+**Text 3** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en)
 
 Ihor studerar svenska vid en skola på Lindholmen i Göteborg. Han åker till skolan varje dag. Lektionerna startar klockan (kl.) 9.30.
 
@@ -222,7 +227,9 @@ När kommer han fram till Lindholmen?
 ![image](https://github.com/elenavolodina/SwedishFromScratch/blob/main/Text3_bus_schedule.png)
 
 
-### Grammatik 03
+[//]: # (### Grammatik 03)
+
+**Grammatik 03**
 
 * Ordföljd: frågor vs påståenden
 * Frågeord: när, vilken tid
@@ -254,11 +261,11 @@ ________________________________________________________________________________
 * [Lektion 15. Verbfraser](https://quizlet.com/691038864/%D0%A3%D1%80%D0%BE%D0%BA-15-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-flash-cards/)
 * [Lektion 16. Ord till text 4](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/)
 
-**Text 4**
+
 
 [//]: # (### Text 04)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en)
+**Text 4** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en)
 
 Vi har en stor familj.
 
@@ -278,7 +285,9 @@ Jag studerar på universitetet. Jag vill bli sjöingenjör. På fredagar spelar 
 
 Vad gör du? Vem vill du bli? Vad är din hobby?
 
-### Grammatik 04
+[//]: # (### Grammatik 04)
+
+**Grammatik 04**
 
 _____________________________________________________________________________________
 
@@ -289,13 +298,11 @@ ________________________________________________________________________________
 * [Lektion 17. Var bor du? Ord till text 5, part 1](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)
 * [Lektion 18. Länder. Ord till text 5, part 2](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/)
 
-**Text 5**
+
 
 [//]: # (### Text 05)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en)
-
-[Listen to the text with _Lätt Svenska med Oscar_](https://podcasts.apple.com/us/podcast/1-var-bor-du/id1579313463?i=1000530743920)
+**Text 5** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en) & [Listen to the text with _Lätt Svenska med Oscar_](https://podcasts.apple.com/us/podcast/1-var-bor-du/id1579313463?i=1000530743920)
 
 Okej allihopa, hej och välkommen till Lätt Svenska med Oscar. Välkommen!
 
@@ -334,9 +341,9 @@ Lyssna på jobbet… På jobbet? Nej! Då får du sparken! Det får man inte! In
 Okej. Tack för idag allihopa. Vi hörs igen snart. Hejdå!
 
 
-### Grammatik 05
+[//]: # (### Grammatik 05)
 
-
+**Grammatik 05**
 
 _____________________________________________________________________________________
 
@@ -346,11 +353,11 @@ ________________________________________________________________________________
 
 * [Lektion 19. Påsk.](https://quizlet.com/692519823/%D0%A3%D1%80%D0%BE%D0%BA-19-%D0%9F%D0%B0%D1%81%D1%85%D0%B0-flash-cards/)
 
-**Text 6**
+
 
 [//]: # (### Text 06)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru|en)
+**Text 6** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru|en)
 
 Det är vår. På våren firar vi påsk. Påsk är viktig i Sverige. Det är fem dagar på påsken: torsdag, fredag, lördag, söndag och måndag.
 
@@ -365,8 +372,9 @@ Barnen klär sig ut till påskkärringar, går till grannar och får godis.
 Glad Påsk!
 
 
-### Grammatik 06
+[//]: # (### Grammatik 06)
 
+**Grammatik 06**
 
 _____________________________________________________________________________________
 
@@ -377,11 +385,11 @@ ________________________________________________________________________________
 * [Lektion 20. Månader. Årstider.](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)
 * [Lektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
 
-**Text 7**
+
 
 [//]: # (### Text 07)
 
-[Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru|en)
+**Text 7** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru|en)
 
 Vi har fyra arstider: vinter, vår, sommar och höst.
 
@@ -399,9 +407,9 @@ Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i d
 
 
 
-### Grammatik 07
+[//]: # (### Grammatik 07)
 
-
+**Grammatik 07**
 _____________________________________________________________________________________
 
 ## 08. Grattis på födelsedagen!
@@ -410,15 +418,10 @@ ________________________________________________________________________________
 
 * [Lektion 22. Födelsedag.](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)
 
-**Text 8**
 
 [//]: # (### Text 08)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru|en)
-
-[Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg)
-
-[Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
+**Text 8** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru|en) & [Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg) & [Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
 
 Idag är en speciell dag. Idag fyller Artem år. Han fyller tolv år. Vi tar tårta, kommer in i hans sovrum och väcker honom med en sång. Vi sjunger:
 
@@ -435,7 +438,9 @@ På kvällen ska Artem ha fest med familj och äta mer tårta.
 Grattis, Artem! Grattis på födelsedagen!
 
 
-### Grammatik 08
+[//]: # (### Grammatik 08)
+
+**Grammatik 08**
 
 
 _____________________________________________________________________________________
@@ -447,11 +452,11 @@ ________________________________________________________________________________
 * [Lektion 23. Personuppgifter.](https://quizlet.com/694234432/%D0%A3%D1%80%D0%BE%D0%BA-23-%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-personuppgifter-flash-cards/)
 * [lektion 24. Att fylla i en formulär.](https://quizlet.com/694544618/%D0%A3%D1%80%D0%BE%D0%BA-24-%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D1%83-%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-9-flash-cards/)
 
-**Text 9**
+
 
 [//]: # (### Text 09)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)
+**Text 9** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)
 
 Du kan ansöka om olika saker från myndigheter. Till exempel, du kan ansöka om ekonomiskt stöd från Migrationsverket. Det blir en ansökan per person. Du ska fylla i information om dig och sedan skriva under.
 
@@ -486,9 +491,9 @@ Testa att fylla i tabellen med dina personuppgifter:
 * ort 	 
 
 
-### Grammatik 09
+[//]: # (### Grammatik 09)
 
-
+**Grammatik 09**
 _____________________________________________________________________________________
 
 ## 10. Jobbintervju
@@ -498,11 +503,11 @@ ________________________________________________________________________________
 * [Lektion 25. Intervju. Berätta om dig själv.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-25-intervju-beratta-om-dig-sjalv-flash-cards/)
 
 
-**Text 10**
+
 
 [//]: # (### Text 10)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru|en)
+**Text 10** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru|en)
 
 - Hej, och välkommen! Kan du berätta lite om dig själv?
 
@@ -529,9 +534,9 @@ Jag tycker om musik, filmer och böcker. Jag gillar att dansa.
 - Hejdå!
 
 
-### Grammatik 10
+[//]: # (### Grammatik 10)
 
-
+**Grammatik 10**
 _____________________________________________________________________________________
 
 ## 11. Dricker du kaffe?
@@ -541,13 +546,11 @@ ________________________________________________________________________________
 * [Lektion 26. Hur mår du?](https://quizlet.com/696607896/%D0%A3%D1%80%D0%BE%D0%BA-26-%D0%9A%D0%B0%D0%BA-%D1%82%D1%8B-hur-mar-du-flash-cards/)
 * [Lektion 27. Kaffe med mjölk.](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)
 
-**Text 11**
+
 
 [//]: # (### Text 11)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru|en)
-
-[Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
+**Text 11** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru|en) & [Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
 
 Haa, hmmmm. Jag dricker kaffe. Välkommen till Lätt svenska med Oscar. Idag handlar det om kaffe.
 
@@ -570,8 +573,9 @@ Kaffe. Kaffe som ingår. Kaffe ska alltid va(ra) med. Hmmm. Men det är ok, om m
 Tack för att du lyssnar på Lätt svenska med Oscar. Ha en bra dag! Vi hörs igen snart! Hejdå, hejdå, hejdå.
 
 
-### Grammatik 11
+[//]: # (### Grammatik 11)
 
+**Grammatik 11**
 
 _____________________________________________________________________________________
 
@@ -583,11 +587,11 @@ ________________________________________________________________________________
 * [Lektion 30. I klädaffären.](https://quizlet.com/697550765/%D0%A3%D1%80%D0%BE%D0%BA-30-%D0%92-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B-flash-cards/)
 * [Lektion 31. Färger etc.](https://quizlet.com/697553276/%D0%A3%D1%80%D0%BE%D0%BA-31-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80-flash-cards/)
 
-**Text 12**
+
 
 [//]: # (### Text 12)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru|en)
+**Text 12** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru|en)
 
 - Hej, jag behöver kläder för en kvinna, damkläder.
 
@@ -631,8 +635,9 @@ ________________________________________________________________________________
 
 
 
-### Grammatik 12
+[//]: # (### Grammatik 12)
 
+**Grammatik 12**
 
 _____________________________________________________________________________________
 
@@ -643,11 +648,11 @@ ________________________________________________________________________________
 * [Lektion 29. Herrkläder.](https://quizlet.com/697428906/%D0%A3%D1%80%D0%BE%D0%BA-29-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD-flash-cards/)
 * [Lektion 32. I kläd- och skoaffären.](https://quizlet.com/698233958/%D0%A3%D1%80%D0%BE%D0%BA-32-%D0%9E%D0%B1%D1%83%D0%B2%D1%8C-%D0%B8-%D0%BF%D1%80-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-13-flash-cards/)
 
-**Text 13**
+
 
 [//]: # (### Text 13)
 
-[Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru|en)
+**Text 13** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru|en)
 
 - Hej, har ni herrkläder?
 
@@ -690,26 +695,25 @@ ________________________________________________________________________________
 - Inga problem!
 
 
-### Grammatik 13
+[//]: # (### Grammatik 13)
 
-
+**Grammatik 13**
 _____________________________________________________________________________________
 
 ## 14. 
 
-Text: 
-
-Ordlektioner:
+**Ordlektioner i Quizlet**
 
 *
 
-**Text 14**
+
 
 [//]: # (### Text 14)
 
+**Text 14**
 
 
-### Grammatik 14
+**Grammatik 14**
 
 
 _____________________________________________________________________________________
