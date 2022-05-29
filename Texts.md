@@ -410,6 +410,7 @@ Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i d
 [//]: # (### Grammatik 07)
 
 **Grammatik 07**
+
 _____________________________________________________________________________________
 
 ## 08. Grattis på födelsedagen!
@@ -494,6 +495,7 @@ Testa att fylla i tabellen med dina personuppgifter:
 [//]: # (### Grammatik 09)
 
 **Grammatik 09**
+
 _____________________________________________________________________________________
 
 ## 10. Jobbintervju
@@ -507,7 +509,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 10)
 
-**Text 10** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru|en)
+**Text 10** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru\|en)
 
 - Hej, och välkommen! Kan du berätta lite om dig själv?
 
@@ -537,6 +539,7 @@ Jag tycker om musik, filmer och böcker. Jag gillar att dansa.
 [//]: # (### Grammatik 10)
 
 **Grammatik 10**
+
 _____________________________________________________________________________________
 
 ## 11. Dricker du kaffe?
@@ -550,7 +553,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 11)
 
-**Text 11** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru|en) & [Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
+**Text 11** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru\|en) & [Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
 
 Haa, hmmmm. Jag dricker kaffe. Välkommen till Lätt svenska med Oscar. Idag handlar det om kaffe.
 
@@ -591,7 +594,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 12)
 
-**Text 12** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru|en)
+**Text 12** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru\|en)
 
 - Hej, jag behöver kläder för en kvinna, damkläder.
 
@@ -652,7 +655,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 13)
 
-**Text 13** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru|en)
+**Text 13** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru\|en)
 
 - Hej, har ni herrkläder?
 
@@ -698,6 +701,7 @@ ________________________________________________________________________________
 [//]: # (### Grammatik 13)
 
 **Grammatik 13**
+
 _____________________________________________________________________________________
 
 ## 14. 
