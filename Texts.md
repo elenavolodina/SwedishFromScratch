@@ -27,66 +27,76 @@ ________________________________________________________________________________
 
 [01. Vad heter du?](#01-vad-heter-du)
 
-  - [Text 01](#text-01)
-  - [Grammatik 01](#grammatik-01)
+[//]: # (  - [Text 01](#text-01))
+[//]: # (  - [Grammatik 01](#grammatik-01))
  
 [02. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
 
-  - [Text 02](#text-02)
-  - [Grammatik 02](#grammatik-02)
+[//]: # (  - [Text 02](#text-02))
+[//]: # (  - [Grammatik 02](#grammatik-02))
 
 [03. När går bussen?](#03-när-går-bussen) 
 
-  - [Text 03](#text-03)
-  - [Grammatik 03](#grammatik-03)
+[//]: # (  - [Text 03](#text-03) )
+[//]: # (  - [Grammatik 03](#grammatik-03) )
 
 [04. Vad gör du? Vem vill du bli? Vad är din hobby?](#04-vad-gör-du-vem-vill-du-bli-vad-är-din-hobby)
-  - [Text 04](#text-04)
-  - [Grammatik 04](#grammatik-04)
+
+[//]: # (  - [Text 04](#text-04) )
+[//]: # (  - [Grammatik 04](#grammatik-04) )
 
 [05. Var bor du?](#05-var-bor-du)
-  - [Text 05](#text-05)
-  - [Grammatik 05](#grammatik-05)
+
+[//]: # (  - [Text 05](#text-05) )
+[//]: # (  - [Grammatik 05](#grammatik-05) )
 
 [06. Påsk i Sverige](#06-påsk-i-sverige)
-  - [Text 06](#text-06)
-  - [Grammatik 06](#grammatik-06)
+
+[//]: # (  - [Text 06](#text-06) )
+[//]: # (  - [Grammatik 06](#grammatik-06) )
 
 [07. Årstider och lovtider](#07-årstider-och-lovtider)
-  - [Text 07](#text-07)
-  - [Grammatik 07](#grammatik-07)
+
+[//]: # ( - [Text 07](#text-07))
+[//]: # (  - [Grammatik 07](#grammatik-07))
 
 [08. Grattis på födelsedagen!](#08-grattis-på-födelsedagen)
-  - [Text 08](#text-08)
-  - [Grammatik 08](#grammatik-08)
+
+[//]: # ( - [Text 08](#text-08) )
+[//]: # ( - [Grammatik 08](#grammatik-08))
 
 [09. Ansökan och personuppgifter](09-ansökan-och-personuppgifter)
-  - [Text 09](#text-09)
-  - [Grammatik 09](#grammatik-09)
+
+[//]: # ( - [Text 09](#text-09))
+[//]: # (  - [Grammatik 09](#grammatik-09))
 
 [10. Jobbintervju](10-jobbintervju)
-  - [Text 10](#text-10)
-  - [Grammatik 10](#grammatik-10)
+
+[//]: # (  - [Text 10](#text-10) )
+[//]: # (  - [Grammatik 10](#grammatik-10) )
 
 [11. Dricker du kaffe?](11-dricker-du-kaffe)
-  - [Text 11](#text-11)
-  - [Grammatik 11](#grammatik-11)
+
+[//]: # (  - [Text 11](#text-11))
+[//]: # (  - [Grammatik 11](#grammatik-11))
 
 [12. Att köpa kläder](12-att-köpa-kläder)
-  - [Text 12](#text-12)
-  - [Grammatik 12](#grammatik-12)
+
+[//]: #  ( - [Text 12](#text-12) )
+[//]: #  ( - [Grammatik 12](#grammatik-12) )
 
 [13. I kläd- och skoaffären](13-i-kläd--och-skoaffären)
-  - [Text 13](#text-13)
-  - [Grammatik 13](#grammatik-13)
+
+[//]: #  ( - [Text 13](#text-13))
+[//]: #  ( - [Grammatik 13](#grammatik-13))
 
 [14. ](14-)
-  - [Text 14](#text-14)
-  - [Grammatik 14](#grammatik-14)
+
+[//]: # (  - [Text 14](#text-14))
+[//]: # (  - [Grammatik 14](#grammatik-14))
 
 [15. ](15-)
-  - [Text 15](#text-15)
-  - [Grammatik 15](#grammatik-15)
+
 
 
 
@@ -101,7 +111,9 @@ ________________________________________________________________________________
 * [**Lektion 3.** God morgon; jag har](https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/)
 * [**Lesson 7.** Språk, etc.](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/)
 
-### Text 01
+[//]: # (### Text 01)
+
+**Text 1**
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
@@ -150,7 +162,9 @@ ________________________________________________________________________________
 * [Lektion 8. Siffror 21+](https://quizlet.com/688888176/%D0%A3%D1%80%D0%BE%D0%BA-8-flash-cards/)
 * [Lektion 9. Familj 3; hon-han-de](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/)
 
-### Text 02
+**Text 2**
+
+[//]: # (### Text 02)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en)
 
@@ -183,7 +197,9 @@ ________________________________________________________________________________
 * [Lektion 10. Klockan.](https://quizlet.com/689789678/%D0%A3%D1%80%D0%BE%D0%BA-10-flash-cards/)
 * [Lektion 11. Dagrutin.](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/)
 
-### Text 03
+**Text 3**
+
+[//]: # (### Text 03)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en)
 
@@ -238,7 +254,9 @@ ________________________________________________________________________________
 * [Lektion 15. Verbfraser](https://quizlet.com/691038864/%D0%A3%D1%80%D0%BE%D0%BA-15-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D1%84%D1%80%D0%B0%D0%B7%D1%8B-flash-cards/)
 * [Lektion 16. Ord till text 4](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/)
 
-### Text 04
+**Text 4**
+
+[//]: # (### Text 04)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en)
 
@@ -271,7 +289,9 @@ ________________________________________________________________________________
 * [Lektion 17. Var bor du? Ord till text 5, part 1](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)
 * [Lektion 18. Länder. Ord till text 5, part 2](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/)
 
-### Text 05
+**Text 5**
+
+[//]: # (### Text 05)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en)
 
@@ -326,7 +346,9 @@ ________________________________________________________________________________
 
 * [Lektion 19. Påsk.](https://quizlet.com/692519823/%D0%A3%D1%80%D0%BE%D0%BA-19-%D0%9F%D0%B0%D1%81%D1%85%D0%B0-flash-cards/)
 
-### Text 06
+**Text 6**
+
+[//]: # (### Text 06)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru|en)
 
@@ -355,7 +377,9 @@ ________________________________________________________________________________
 * [Lektion 20. Månader. Årstider.](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)
 * [Lektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
 
-### Text 07
+**Text 7**
+
+[//]: # (### Text 07)
 
 [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru|en)
 
@@ -386,7 +410,9 @@ ________________________________________________________________________________
 
 * [Lektion 22. Födelsedag.](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)
 
-### Text 08
+**Text 8**
+
+[//]: # (### Text 08)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru|en)
 
@@ -421,7 +447,9 @@ ________________________________________________________________________________
 * [Lektion 23. Personuppgifter.](https://quizlet.com/694234432/%D0%A3%D1%80%D0%BE%D0%BA-23-%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-personuppgifter-flash-cards/)
 * [lektion 24. Att fylla i en formulär.](https://quizlet.com/694544618/%D0%A3%D1%80%D0%BE%D0%BA-24-%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D1%83-%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-9-flash-cards/)
 
-### Text 09
+**Text 9**
+
+[//]: # (### Text 09)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)
 
@@ -469,7 +497,10 @@ ________________________________________________________________________________
 
 * [Lektion 25. Intervju. Berätta om dig själv.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-25-intervju-beratta-om-dig-sjalv-flash-cards/)
 
-### Text 10
+
+**Text 10**
+
+[//]: # (### Text 10)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru|en)
 
@@ -510,7 +541,9 @@ ________________________________________________________________________________
 * [Lektion 26. Hur mår du?](https://quizlet.com/696607896/%D0%A3%D1%80%D0%BE%D0%BA-26-%D0%9A%D0%B0%D0%BA-%D1%82%D1%8B-hur-mar-du-flash-cards/)
 * [Lektion 27. Kaffe med mjölk.](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)
 
-### Text 11
+**Text 11**
+
+[//]: # (### Text 11)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru|en)
 
@@ -550,7 +583,9 @@ ________________________________________________________________________________
 * [Lektion 30. I klädaffären.](https://quizlet.com/697550765/%D0%A3%D1%80%D0%BE%D0%BA-30-%D0%92-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B-flash-cards/)
 * [Lektion 31. Färger etc.](https://quizlet.com/697553276/%D0%A3%D1%80%D0%BE%D0%BA-31-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80-flash-cards/)
 
-### Text 12
+**Text 12**
+
+[//]: # (### Text 12)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru|en)
 
@@ -608,7 +643,9 @@ ________________________________________________________________________________
 * [Lektion 29. Herrkläder.](https://quizlet.com/697428906/%D0%A3%D1%80%D0%BE%D0%BA-29-%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD-flash-cards/)
 * [Lektion 32. I kläd- och skoaffären.](https://quizlet.com/698233958/%D0%A3%D1%80%D0%BE%D0%BA-32-%D0%9E%D0%B1%D1%83%D0%B2%D1%8C-%D0%B8-%D0%BF%D1%80-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-13-flash-cards/)
 
-### Text 13
+**Text 13**
+
+[//]: # (### Text 13)
 
 [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru|en)
 
@@ -664,9 +701,11 @@ Text:
 
 Ordlektioner:
 
-* 
+*
 
-### Text 14
+**Text 14**
+
+[//]: # (### Text 14)
 
 
 
@@ -683,7 +722,9 @@ Ordlektioner:
 
 * 
 
-### Text 15
+**Text 15**
+
+[//]: # (### Text 15 )
 
 
 
@@ -699,7 +740,7 @@ Ordlektioner:
 
 * 
 
-### Text 16
+**Text 16**
 
 
 
