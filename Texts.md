@@ -515,13 +515,13 @@ ________________________________________________________________________________
 
 - Hej, jag heter Sveta. Jag är från Ukraina, från Mariupol. Jag är fyrtio år gammal. Jag kom till Sverige den första april, för fyra veckor sedan.
 
-Jag pratar ukrainska och ryska. Jag lär mig svenska. Jag bor med min familj hos min kusin. Jag har två barn och en man.
+- Jag pratar ukrainska och ryska. Jag lär mig svenska. Jag bor med min familj hos min kusin. Jag har två barn och en man.
 
 - Vad bra! Hur kan du beskriva dig själv?
 
 - Jag är noggrann, positiv och ansvarsfull. Jag gillar när det är mycket jobb. Jag lär mig saker snabbt. (Jag kan inte prata, men jag kan jobba!)
 
-Jag tycker om musik, filmer och böcker. Jag gillar att dansa.
+- Jag tycker om musik, filmer och böcker. Jag gillar att dansa.
 
 - Vad trevligt! Jag tycker också om det! Kan du berätta om din utbildning?
 
