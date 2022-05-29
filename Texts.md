@@ -357,7 +357,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 06)
 
-**Text 6** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru|en)
+**Text 6** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru\|en)
 
 Det är vår. På våren firar vi påsk. Påsk är viktig i Sverige. Det är fem dagar på påsken: torsdag, fredag, lördag, söndag och måndag.
 
@@ -389,7 +389,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 07)
 
-**Text 7** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru|en)
+**Text 7** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru\|en)
 
 Vi har fyra arstider: vinter, vår, sommar och höst.
 
@@ -421,7 +421,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 08)
 
-**Text 8** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru|en) & [Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg) & [Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
+**Text 8** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru\|en) & [Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg) & [Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
 
 Idag är en speciell dag. Idag fyller Artem år. Han fyller tolv år. Vi tar tårta, kommer in i hans sovrum och väcker honom med en sång. Vi sjunger:
 
@@ -456,7 +456,7 @@ ________________________________________________________________________________
 
 [//]: # (### Text 09)
 
-**Text 9** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru|en)
+**Text 9** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru\|en)
 
 Du kan ansöka om olika saker från myndigheter. Till exempel, du kan ansöka om ekonomiskt stöd från Migrationsverket. Det blir en ansökan per person. Du ska fylla i information om dig och sedan skriva under.
 
