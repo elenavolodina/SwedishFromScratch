@@ -3,7 +3,7 @@
 
 *(Elena Volodina, April-... 2022)*
 
-[https://elenavolodina.github.io/SwedishFromScratch/Grammar](https://elenavolodina.github.io/SwedishFromScratch/Grammar)
+[https://elenavolodina.github.io/SwedishFromScratch/Grammar_Verbs](https://elenavolodina.github.io/SwedishFromScratch/Grammar_Verbs)
 
 _____________________________________________________________________________________
 ## Содержание (Innehåll)
@@ -11,7 +11,7 @@ ________________________________________________________________________________
 [1. Verb. Глагол.](#1-verb-глагол)
   - [Verb grupper 1-4. Глаголы группы 1-4](#verb-grupper-1-4-глаголы-группы-1-4)
   
-[2. Substantiv. Существительное.](#2-substantiv-существительное) 
+[2. Substantiv. Существительное.](https://elenavolodina.github.io/SwedishFromScratch/Grammar) 
 
 [3. Pronomen. Местоимения.](#3-pronomen-местоимения) 
 _____________________________________________________________________________________
