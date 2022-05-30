@@ -9,7 +9,12 @@ ________________________________________________________________________________
 ## Содержание (Innehåll)
 
 [1. Verb. Глагол.](#1-verb-глагол)
-  - [Verb grupper 1-4. Глаголы группы 1-4](#verb-grupper-1-4-глаголы-группы-1-4)
+  - [Verb grupper](#verb-grupper)
+  - [Verb grupp 1](#verb-grupp-1)
+  - [Verb grupp 2](#verb-grupp-2)
+  - [Verb grupp 3](#verb-grupp-3)
+  - [Verb grupp 4](#verb-grupp-4)
+  - [Verb grupper 1-4.](#verb-grupper-1-4)
   
 [2. Substantiv. Существительное.](https://elenavolodina.github.io/SwedishFromScratch/Grammar) 
 
@@ -17,63 +22,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 ## 1. Verb. Глагол.
-
-_____________________________________________________________________________________
-
-### Verb grupper 1-4. Глаголы группы 1-4
-
-_____________________________________________________________________________________
-
-**РУССКИЙ** 
-
-Глаголы в шведском имеют 4 спряжения. Каждый глагол изменяется согласно одному из них. 
-
-К группам 1-3 относятся правильные глаголы, которые следуют строгой системе окончаний. 
-
-Группа 4 охватывает неправильные глаголы, которые надо заучить наизусть.
-
-Примеры глаголов всех групп приведены в таблице.
-
-_____________________________________________________________________________________
-
-**SVENSKA** 
-
-Verb i svenska böjs enligt fyra olika mönster. Därför tillhör varje verb en av de fyra grupperna, grupp 1-4.
-
-Grupp 1-3 är regelbundna verb, dvs har återkommande mönster.
-
-Grupp 4 har oregelbundna och starka verb. Dessa verb måste man lära utantill. 
-
-Några exempel per grupp finns nedan i en tabell.
-
-
-| **Grupp** |  Imperativ | Infinitiv | Presens  | Preteritum | Supinum  |
-|:----------|:-----------|:----------|:---------|:-----------|:---------|
-|**1**      | -**a**     | -**a**    | -**ar**  |-**ade**    |-**at**   |
-|           | tal*a*!    | tal*a*    |tal*ar*   |tal*ade*    |tal*at*   |
-|**2**      | - !        | -**a**    |-**r/er** | -**de/te** |-**t**    |     
-|2a         |ring!       |ring*a*    |ring*er*  | ring*de*   |ring*t*   |  
-|           |kör!        |kör*a*     |kö*r*     |kör*de*     |kör*t*    | 
-|2b         |åk!         |åk*a*      |åk*er*    |åk*te*      |åk*t*     |
-|**3**      | - !        |-          |-**r**    |-**dde**    |-**tt**   | 
-|           |bo!         |bo         |bo*r*     |bo*dde*     |bo*tt*    |
-|**4**      |            |           |          |            |          |
-|4a         |            |           |          |            |-**it**   |
-|           |kom!        |komm*a*    |komm*er*  |kom         |komm*it*  |
-|           |ät!         |ät*a*      |ät*er*    |åt          |ät*it*    |
-|4b         |            |           |          |            |-**tt**   |
-|           |gå!         |gå         |gå*r*     |gick        |gå*tt*    | 
-
-
-Imperativ - Повелительное наклонение
-
-Infinitiv - Неопреденная форма глагола
-
-Presens - Настоящее время
-
-Preteritum - Прошедшее время
-
-Supinum - Перфектная форма глагола (совершенный вид глагола)
 
 _____________________________________________________________________________________
 
@@ -112,6 +60,35 @@ ________________________________________________________________________________
 К группам 1-3 относятся правильные глаголы, которые следуют строгой системе окончаний. 
 Группа 4 охватывает неправильные глаголы, которые надо заучить наизусть.
 
+_____________________________________________________________________________________
+
+**SVENSKA** 
+
+Verb berättar om en handling (vad som händer eller vad någon gör) eller om ett tillstånd, t.ex.:
+
+*    Det *snöar*.
+*    Daniel *springer*.
+*    Sara *är* trött.
+
+**Verbens former**
+
+Svenska verb böjs inte efter person utan enbart efter tempus. De kan bilda fyra olika former: infinitiv (grundform), presens, preteritum (dåtid) och supinum. Med hjälp av dessa former markerar vi om något händer nu (presens), hände tidigare (preteritum/perfekt) eller om det ska hända i framtiden (futurum).
+
+Observera! Presens används också för att prata om något som ska hända i framtiden och även om något som händer ofta. Exempel:
+
+*    Jag *åker* buss till Malmö nu.
+*    Jag *åker* buss till Malmö varje vecka.
+*    Jag *åker* buss till Malmö imorgon.
+
+**Böjning av verb**
+
+Det finns fyra olika verbgrupper på svenska. Grupp 1, 2 och 3 är regelbundna verb och grupp 4 är oregelbundna och starka verb.
+
+_____________________________________________________________________________________
+
+
+### Verb grupp 1
+
 *Группа 1*
 
 Большинство шведских глаголов относятся к Группе 1. Все эти глаголы заканчиваются на -ar в настоящем времени и на -ade в прошедшем времени. Примеры:
@@ -136,6 +113,28 @@ ________________________________________________________________________________
 * parkera (парковать)
 * betala (платить)
 * и т.д.
+
+_____________________________________________________________________________________
+
+**SVENSKA**
+
+*Grupp 1*
+
+Majoriteten av de svenska verben ingår i denna grupp. Alla dessa verb slutar på -ar i presens och -ade i preteritum. Exempel:
+
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –        | -r       |	-de        |-t       |
+|titta 	   |titta*r* 	|titta*de*   |titta*t* |
+|prata 	   |prata*r* 	|prata*de*   |prata*t* |
+|svara 	   |svara*r* 	|svara*de* 	 |svara*t* |
+
+Fler verb i grupp 1: städa, bada, fråga, börja, sluta, tala, arbeta, parkera, betala osv.
+
+_____________________________________________________________________________________
+
+### Verb grupp 2
 
 *Группа 2*
 
@@ -164,6 +163,30 @@ ________________________________________________________________________________
 * köpa (покупать)
 * и т.д.
 
+_____________________________________________________________________________________
+
+**SVENSKA**
+
+*Grupp 2*
+
+Dessa verb slutar på -r /-er i presens och -de /-te i preteritum. Observera att de verb som slutar på -te i preteritum är de som slutar på en av följande bokstäver: k, p, t, s eller x. Exempel:
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –a       | -r/-er   |-de/-te     |-t       |
+|kör*a* 	 |kö*r* 	  |kör*de*     |kör*t*   |
+|stäng*a*  |stäng*er* |stäng*de*   |stäng*t* |
+|ring*a* 	 |ring*er* 	|svara*de* 	 |svara*t* |
+|sök*a*    |sök*er*   |söka*te*    |sök*t*   |
+|läs*a* 	 |läs*er* 	|läs*te* 	   |läs*t*   |
+
+
+Fler verb i grupp 2: höra, hyra, behöva, ställa, känna, hända, använda, köpa osv.
+
+_____________________________________________________________________________________
+
+### Verb grupp 3
+
 *Группа 3*
 
 Группу 3 часто называют группой коротких глаголов, так как в нее входит много глаголов из одного слога, и тех, что произошли от односложных глаголов.  Эти глаголы тоже заканчиваются на -r в настоящем времени. В начальной форме у них длинный гласный звук, который меняется на короткий гласный звук в прошедшем времени и в перфектной форме. Именно поэтому в суффиксах удваивается согласная: -dde в прошедшем времени и -tt в перфектной форме. Примеры:
@@ -189,6 +212,33 @@ ________________________________________________________________________________
 * klä (одевать)
 * glo (пялиться)
 * и т.д.
+
+_____________________________________________________________________________________
+
+**SVENSKA**
+
+
+*Grupp 3*
+
+Grupp 3 kallas ofta korta verb eftersom här handlar det om verb med bara en stavelse eller verb som har sitt ursprung i verb med bara en stavelse. Dessa verb slutar också på -r i presens. De har dock lång vokal i stammen, men kort vokal i preteritum och supinum och får därför -dde i preteritum och -tt i supinum. Exempel:
+
+
+|infinitiv |	presens |	preteritum | supinum |
+|:---------|:---------|:-----------|:--------|
+| –        | -r       |-dde        |-tt      |
+|bo     	 |bo*r* 	  |bo*dde*     |bo*tt*   |
+|må     	 |må*r* 	  |må*dde*     |må*tt*   |
+|nå     	 |nå*r* 	  |nå*dde*     |nå*tt*   |
+|fly     	 |fly*r* 	  |fly*dde*    |fly*tt*  |
+|bero      |bero*r*   |bero*dde*   |bero*tt* |
+
+
+Fler verb i grupp 3: ro, ske, sy, spy, klä, glo osv.
+
+
+_____________________________________________________________________________________
+
+### Verb grupp 4
 
 *Группа 4*
 
@@ -216,77 +266,10 @@ ________________________________________________________________________________
 |vilja 	|vill 	|ville 	|velat|(хотеть)|
 |äta 	|äter 	|åt 	|ätit|(кушать)|
 
-
 _____________________________________________________________________________________
 
-**SVENSKA** 
+**SVENSKA**
 
-Verb berättar om en handling (vad som händer eller vad någon gör) eller om ett tillstånd, t.ex.:
-
-*    Det *snöar*.
-*    Daniel *springer*.
-*    Sara *är* trött.
-
-**Verbens former**
-
-Svenska verb böjs inte efter person utan enbart efter tempus. De kan bilda fyra olika former: infinitiv (grundform), presens, preteritum (dåtid) och supinum. Med hjälp av dessa former markerar vi om något händer nu (presens), hände tidigare (preteritum/perfekt) eller om det ska hända i framtiden (futurum).
-
-Observera! Presens används också för att prata om något som ska hända i framtiden och även om något som händer ofta. Exempel:
-
-*    Jag *åker* buss till Malmö nu.
-*    Jag *åker* buss till Malmö varje vecka.
-*    Jag *åker* buss till Malmö imorgon.
-
-**Böjning av verb**
-
-Det finns fyra olika verbgrupper på svenska. Grupp 1, 2 och 3 är regelbundna verb och grupp 4 är oregelbundna och starka verb.
-
-*Grupp 1*
-
-Majoriteten av de svenska verben ingår i denna grupp. Alla dessa verb slutar på -ar i presens och -ade i preteritum. Exempel:
-
-
-|infinitiv |	presens |	preteritum | supinum |
-|:---------|:---------|:-----------|:--------|
-| –        | -r       |	-de        |-t       |
-|titta 	   |titta*r* 	|titta*de*   |titta*t* |
-|prata 	   |prata*r* 	|prata*de*   |prata*t* |
-|svara 	   |svara*r* 	|svara*de* 	 |svara*t* |
-
-Fler verb i grupp 1: städa, bada, fråga, börja, sluta, tala, arbeta, parkera, betala osv.
-
-*Grupp 2*
-
-Dessa verb slutar på -r /-er i presens och -de /-te i preteritum. Observera att de verb som slutar på -te i preteritum är de som slutar på en av följande bokstäver: k, p, t, s eller x. Exempel:
-
-|infinitiv |	presens |	preteritum | supinum |
-|:---------|:---------|:-----------|:--------|
-| –a       | -r/-er   |-de/-te     |-t       |
-|kör*a* 	 |kö*r* 	  |kör*de*     |kör*t*   |
-|stäng*a*  |stäng*er* |stäng*de*   |stäng*t* |
-|ring*a* 	 |ring*er* 	|svara*de* 	 |svara*t* |
-|sök*a*    |sök*er*   |söka*te*    |sök*t*   |
-|läs*a* 	 |läs*er* 	|läs*te* 	   |läs*t*   |
-
-
-Fler verb i grupp 2: höra, hyra, behöva, ställa, känna, hända, använda, köpa osv.
-
-*Grupp 3*
-
-Grupp 3 kallas ofta korta verb eftersom här handlar det om verb med bara en stavelse eller verb som har sitt ursprung i verb med bara en stavelse. Dessa verb slutar också på -r i presens. De har dock lång vokal i stammen, men kort vokal i preteritum och supinum och får därför -dde i preteritum och -tt i supinum. Exempel:
-
-
-|infinitiv |	presens |	preteritum | supinum |
-|:---------|:---------|:-----------|:--------|
-| –        | -r       |-dde        |-tt      |
-|bo     	 |bo*r* 	  |bo*dde*     |bo*tt*   |
-|må     	 |må*r* 	  |må*dde*     |må*tt*   |
-|nå     	 |nå*r* 	  |nå*dde*     |nå*tt*   |
-|fly     	 |fly*r* 	  |fly*dde*    |fly*tt*  |
-|bero      |bero*r*   |bero*dde*   |bero*tt* |
-
-
-Fler verb i grupp 3: ro, ske, sy, spy, klä, glo osv.
 
 *Grupp 4*
 
@@ -315,3 +298,80 @@ Grupp 4 delas in i två grupper: starka och oregelbundna verb. Oregelbundna verb
 |äta 	|äter 	|åt 	|ätit|
 
 _________________________________________________________________________
+
+
+### Verb grupper 1-4.
+
+**Глаголы группы 1-4. Сводная таблица.**
+
+_____________________________________________________________________________________
+
+**РУССКИЙ** 
+
+Глаголы в шведском имеют 4 спряжения. Каждый глагол изменяется согласно одному из них. 
+
+К группам 1-3 относятся правильные глаголы, которые следуют строгой системе окончаний. 
+
+Группа 4 охватывает неправильные глаголы, которые надо заучить наизусть.
+
+Примеры глаголов всех групп приведены в таблице.
+
+| **Grupp** |  Imperativ | Infinitiv | Presens  | Preteritum | Supinum  |
+|:----------|:-----------|:----------|:---------|:-----------|:---------|
+|**1**      | -**a**     | -**a**    | -**ar**  |-**ade**    |-**at**   |
+|           | tal*a*!    | tal*a*    |tal*ar*   |tal*ade*    |tal*at*   |
+|**2**      | - !        | -**a**    |-**r/er** | -**de/te** |-**t**    |     
+|2a         |ring!       |ring*a*    |ring*er*  | ring*de*   |ring*t*   |  
+|           |kör!        |kör*a*     |kö*r*     |kör*de*     |kör*t*    | 
+|2b         |åk!         |åk*a*      |åk*er*    |åk*te*      |åk*t*     |
+|**3**      | - !        |-          |-**r**    |-**dde**    |-**tt**   | 
+|           |bo!         |bo         |bo*r*     |bo*dde*     |bo*tt*    |
+|**4**      |            |           |          |            |          |
+|4a         |            |           |          |            |-**it**   |
+|           |kom!        |komm*a*    |komm*er*  |kom         |komm*it*  |
+|           |ät!         |ät*a*      |ät*er*    |åt          |ät*it*    |
+|4b         |            |           |          |            |-**tt**   |
+|           |gå!         |gå         |gå*r*     |gick        |gå*tt*    | 
+
+
+Imperativ - Повелительное наклонение
+
+Infinitiv - Неопреденная форма глагола
+
+Presens - Настоящее время
+
+Preteritum - Прошедшее время
+
+Supinum - Перфектная форма глагола (совершенный вид глагола)
+
+_____________________________________________________________________________________
+
+**SVENSKA** 
+
+Verb i svenska böjs enligt fyra olika mönster. Därför tillhör varje verb en av de fyra grupperna, grupp 1-4.
+
+Grupp 1-3 är regelbundna verb, dvs har återkommande mönster.
+
+Grupp 4 har oregelbundna och starka verb. Dessa verb måste man lära utantill. 
+
+Några exempel per grupp finns nedan i en tabell.
+
+
+| **Grupp** |  Imperativ | Infinitiv | Presens  | Preteritum | Supinum  |
+|:----------|:-----------|:----------|:---------|:-----------|:---------|
+|**1**      | -**a**     | -**a**    | -**ar**  |-**ade**    |-**at**   |
+|           | tal*a*!    | tal*a*    |tal*ar*   |tal*ade*    |tal*at*   |
+|**2**      | - !        | -**a**    |-**r/er** | -**de/te** |-**t**    |     
+|2a         |ring!       |ring*a*    |ring*er*  | ring*de*   |ring*t*   |  
+|           |kör!        |kör*a*     |kö*r*     |kör*de*     |kör*t*    | 
+|2b         |åk!         |åk*a*      |åk*er*    |åk*te*      |åk*t*     |
+|**3**      | - !        |-          |-**r**    |-**dde**    |-**tt**   | 
+|           |bo!         |bo         |bo*r*     |bo*dde*     |bo*tt*    |
+|**4**      |            |           |          |            |          |
+|4a         |            |           |          |            |-**it**   |
+|           |kom!        |komm*a*    |komm*er*  |kom         |komm*it*  |
+|           |ät!         |ät*a*      |ät*er*    |åt          |ät*it*    |
+|4b         |            |           |          |            |-**tt**   |
+|           |gå!         |gå         |gå*r*     |gick        |gå*tt*    | 
+
+
