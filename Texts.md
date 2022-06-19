@@ -26,79 +26,46 @@ ________________________________________________________________________________
 [Texts till SwedishFromScratch](#terminologi-svenska---engelska)
 
 [01. Vad heter du?](#01-vad-heter-du)
-
-[//]: # (  - [Text 01](#text-01))
-[//]: # (  - [Grammatik 01](#grammatik-01))
  
 [02. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
 
-[//]: # (  - [Text 02](#text-02))
-[//]: # (  - [Grammatik 02](#grammatik-02))
-
 [03. När går bussen?](#03-när-går-bussen) 
-
-[//]: # (  - [Text 03](#text-03) )
-[//]: # (  - [Grammatik 03](#grammatik-03) )
 
 [04. Vad gör du? Vem vill du bli? Vad är din hobby?](#04-vad-gör-du-vem-vill-du-bli-vad-är-din-hobby)
 
-[//]: # (  - [Text 04](#text-04) )
-[//]: # (  - [Grammatik 04](#grammatik-04) )
-
 [05. Var bor du?](#05-var-bor-du)
-
-[//]: # (  - [Text 05](#text-05) )
-[//]: # (  - [Grammatik 05](#grammatik-05) )
 
 [06. Påsk i Sverige](#06-påsk-i-sverige)
 
-[//]: # (  - [Text 06](#text-06) )
-[//]: # (  - [Grammatik 06](#grammatik-06) )
-
 [07. Årstider och lovtider](#07-årstider-och-lovtider)
-
-[//]: # ( - [Text 07](#text-07))
-[//]: # (  - [Grammatik 07](#grammatik-07))
 
 [08. Grattis på födelsedagen!](#08-grattis-på-födelsedagen)
 
-[//]: # ( - [Text 08](#text-08) )
-[//]: # ( - [Grammatik 08](#grammatik-08))
-
 [09. Ansökan och personuppgifter](09-ansökan-och-personuppgifter)
-
-[//]: # ( - [Text 09](#text-09))
-[//]: # (  - [Grammatik 09](#grammatik-09))
 
 [10. Jobbintervju](10-jobbintervju)
 
-[//]: # (  - [Text 10](#text-10) )
-[//]: # (  - [Grammatik 10](#grammatik-10) )
-
 [11. Dricker du kaffe?](11-dricker-du-kaffe)
-
-[//]: # (  - [Text 11](#text-11))
-[//]: # (  - [Grammatik 11](#grammatik-11))
 
 [12. Att köpa kläder](12-att-köpa-kläder)
 
-[//]: #  ( - [Text 12](#text-12) )
-[//]: #  ( - [Grammatik 12](#grammatik-12) )
-
 [13. I kläd- och skoaffären](13-i-kläd--och-skoaffären)
 
-[//]: #  ( - [Text 13](#text-13))
-[//]: #  ( - [Grammatik 13](#grammatik-13))
+[14. Att vänta i Sverige. Valerys berättelse](14-att-vänta-i-sverige-valerys-berättelse)
 
-[14. ](14-)
+[15. Recept: gissa vilken rätt det är?](15-recept-gissa-vilken-rätt-det-är)
 
-[//]: # (  - [Text 14](#text-14))
-[//]: # (  - [Grammatik 14](#grammatik-14))
+[16. Måltider. Frukost](16-måltider-frukost)
 
-[15. ](15-)
+[17. Pannkakor](17-pannkakor)
 
+[18. Datum, månader, år](18-datum-månader-år)
 
+[19. Måltider. Lunch](19-måltider-lunch)
 
+[20. Gillar du att laga mat?](20-gillar-du-att-laga-mat)
+
+[21. ](21-)
 
 _____________________________________________________________________________________
 
@@ -110,8 +77,6 @@ ________________________________________________________________________________
 * [**Lektion 2.** Siffror 1-13](https://quizlet.com/686186796/%D0%A3%D1%80%D0%BE%D0%BA-2-flash-cards/)
 * [**Lektion 3.** God morgon; jag har](https://quizlet.com/686387579/%D0%A3%D1%80%D0%BE%D0%BA-3-flash-cards/)
 * [**Lesson 7.** Språk, etc.](https://quizlet.com/688326916/%D0%A3%D1%80%D0%BE%D0%BA-7-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-1-flash-cards/)
-
-[//]: # (### Text 01)
 
 **Text 1** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10359{and}hl=ru\|en)
 
@@ -133,15 +98,6 @@ ________________________________________________________________________________
 - Vi ses!
 
 ![image](https://user-images.githubusercontent.com/31984909/167302724-bfc22b8a-1d9d-4c33-8250-aaa86f7ed138.png)
-
-
-
-[//]: # (  Ord att fokusera på?)
-
-
-
-
-[//]: # ( ### Grammatik 01)
 
 **Grammatik 01**
 
@@ -167,8 +123,6 @@ ________________________________________________________________________________
 * [Lektion 9. Familj 3; hon-han-de](https://quizlet.com/689280500/%D0%A3%D1%80%D0%BE%D0%BA-9-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-2-flash-cards/)
 
 
-[//]: # (### Text 02)
-
 **Text 2** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10366{and}user=elena.v.gu{and}hl=ru\|en)
 
 Victoria, 45 år gammal, är Sveriges kronprinsessa. Hon är dotter till kung Carl XVI Gustaf och drottning Silvia. Hon har en bror, prins Carl Philip och en syster, prinsessan Madeleine.
@@ -177,7 +131,6 @@ Victorias man heter Daniel Westling. Han är prins Daniel av Sverige och hertig 
 
 Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är mormor till Estelle och Oscar. Kung Carl Gustaf är morfar till barnen.
 
-[//]: # (### Grammatik 02)
 
 **Grammatik 02**
 
@@ -203,9 +156,6 @@ ________________________________________________________________________________
 * [Lektion 11. Dagrutin.](https://quizlet.com/690008419/%D0%A3%D1%80%D0%BE%D0%BA-11-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-3-flash-cards/)
 
 
-
-[//]: # (### Text 03)
-
 **Text 3** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10375{and}user=elena.v.gu{and}hl=ru\|en)
 
 Ihor studerar svenska vid en skola på Lindholmen i Göteborg. Han åker till skolan varje dag. Lektionerna startar klockan (kl.) 9.30.
@@ -226,8 +176,6 @@ När kommer han fram till Lindholmen?
 
 ![image](https://github.com/elenavolodina/SwedishFromScratch/blob/main/Text3_bus_schedule.png)
 
-
-[//]: # (### Grammatik 03)
 
 **Grammatik 03**
 
@@ -262,9 +210,6 @@ ________________________________________________________________________________
 * [Lektion 16. Ord till text 4](https://quizlet.com/691053430/%D0%A3%D1%80%D0%BE%D0%BA-16-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-4-flash-cards/)
 
 
-
-[//]: # (### Text 04)
-
 **Text 4** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10383{and}user=elena.v.gu{and}hl=ru\|en)
 
 Vi har en stor familj.
@@ -285,8 +230,6 @@ Jag studerar på universitetet. Jag vill bli sjöingenjör. På fredagar spelar 
 
 Vad gör du? Vem vill du bli? Vad är din hobby?
 
-[//]: # (### Grammatik 04)
-
 **Grammatik 04**
 
 _____________________________________________________________________________________
@@ -298,9 +241,6 @@ ________________________________________________________________________________
 * [Lektion 17. Var bor du? Ord till text 5, part 1](https://quizlet.com/691881523/%D0%A3%D1%80%D0%BE%D0%BA-17-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B0-flash-cards/)
 * [Lektion 18. Länder. Ord till text 5, part 2](https://quizlet.com/691902987/%D0%A3%D1%80%D0%BE%D0%BA-18-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-5%D0%B1-flash-cards/)
 
-
-
-[//]: # (### Text 05)
 
 **Text 5** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10386{and}hl=ru\|en) & [Listen to the text with _Lätt Svenska med Oscar_](https://podcasts.apple.com/us/podcast/1-var-bor-du/id1579313463?i=1000530743920)
 
@@ -341,8 +281,6 @@ Lyssna på jobbet… På jobbet? Nej! Då får du sparken! Det får man inte! In
 Okej. Tack för idag allihopa. Vi hörs igen snart. Hejdå!
 
 
-[//]: # (### Grammatik 05)
-
 **Grammatik 05**
 
 _____________________________________________________________________________________
@@ -352,10 +290,6 @@ ________________________________________________________________________________
 **Ordlektioner i Quizlet**
 
 * [Lektion 19. Påsk.](https://quizlet.com/692519823/%D0%A3%D1%80%D0%BE%D0%BA-19-%D0%9F%D0%B0%D1%81%D1%85%D0%B0-flash-cards/)
-
-
-
-[//]: # (### Text 06)
 
 **Text 6** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10387{and}hl=ru\|en)
 
@@ -372,8 +306,6 @@ Barnen klär sig ut till påskkärringar, går till grannar och får godis.
 Glad Påsk!
 
 
-[//]: # (### Grammatik 06)
-
 **Grammatik 06**
 
 _____________________________________________________________________________________
@@ -385,9 +317,6 @@ ________________________________________________________________________________
 * [Lektion 20. Månader. Årstider.](https://quizlet.com/693054088/%D0%A3%D1%80%D0%BE%D0%BA-20-%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%BE%D0%B4%D0%B0-%D0%9C%D0%B5%D1%81%D1%8F%D1%86%D1%8B-flash-cards/)
 * [Lektion 21. Lovtider.](https://quizlet.com/693358318/%D0%A3%D1%80%D0%BE%D0%BA-21-lovtider-flash-cards/)
 
-
-
-[//]: # (### Text 07)
 
 **Text 7** [Open the text in Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10390{and}hl=ru\|en)
 
@@ -406,9 +335,6 @@ Hösten har tre månader: september, oktober och november. På hösten firar vi 
 Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i ditt land?
 
 
-
-[//]: # (### Grammatik 07)
-
 **Grammatik 07**
 
 _____________________________________________________________________________________
@@ -419,8 +345,6 @@ ________________________________________________________________________________
 
 * [Lektion 22. Födelsedag.](https://quizlet.com/693836785/%D0%A3%D1%80%D0%BE%D0%BA-22-fodelsedag-flash-cards/)
 
-
-[//]: # (### Text 08)
 
 **Text 8** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10414{and}hl=ru\|en) & [Lyssna på sången _Ja må du leva!_](https://www.youtube.com/watch?v=hPfrJYRDnXg) & [Lyssna på sången _Пусть бегут неуклюже_ på svenska](https://www.youtube.com/watch?v=Pmk-vkpOyUw)
 
@@ -438,9 +362,6 @@ På kvällen ska Artem ha fest med familj och äta mer tårta.
 
 Grattis, Artem! Grattis på födelsedagen!
 
-
-[//]: # (### Grammatik 08)
-
 **Grammatik 08**
 
 
@@ -453,9 +374,6 @@ ________________________________________________________________________________
 * [Lektion 23. Personuppgifter.](https://quizlet.com/694234432/%D0%A3%D1%80%D0%BE%D0%BA-23-%D0%9B%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-personuppgifter-flash-cards/)
 * [lektion 24. Att fylla i en formulär.](https://quizlet.com/694544618/%D0%A3%D1%80%D0%BE%D0%BA-24-%D0%97%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D1%83-%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-9-flash-cards/)
 
-
-
-[//]: # (### Text 09)
 
 **Text 9** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10413{and}hl=ru\|en)
 
@@ -491,9 +409,6 @@ Testa att fylla i tabellen med dina personuppgifter:
 * postnummer 	
 * ort 	 
 
-
-[//]: # (### Grammatik 09)
-
 **Grammatik 09**
 
 _____________________________________________________________________________________
@@ -504,10 +419,6 @@ ________________________________________________________________________________
 
 * [Lektion 25. Intervju. Berätta om dig själv.](https://quizlet.com/695792689/%D0%A3%D1%80%D0%BE%D0%BA-25-intervju-beratta-om-dig-sjalv-flash-cards/)
 
-
-
-
-[//]: # (### Text 10)
 
 **Text 10** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10443{and}hl=ru\|en)
 
@@ -536,8 +447,6 @@ ________________________________________________________________________________
 - Hejdå!
 
 
-[//]: # (### Grammatik 10)
-
 **Grammatik 10**
 
 _____________________________________________________________________________________
@@ -549,9 +458,6 @@ ________________________________________________________________________________
 * [Lektion 26. Hur mår du?](https://quizlet.com/696607896/%D0%A3%D1%80%D0%BE%D0%BA-26-%D0%9A%D0%B0%D0%BA-%D1%82%D1%8B-hur-mar-du-flash-cards/)
 * [Lektion 27. Kaffe med mjölk.](https://quizlet.com/696622524/%D0%A3%D1%80%D0%BE%D0%BA-27-kaffe-med-mjolk-flash-cards/)
 
-
-
-[//]: # (### Text 11)
 
 **Text 11** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10388{and}hl=ru\|en) & [Lyssna på texten med _Lätt svenska med Oscar_](https://podcasts.apple.com/us/podcast/2-dricker-du-kaffe/id1579313463?i=1000530744004)
 
@@ -576,8 +482,6 @@ Kaffe. Kaffe som ingår. Kaffe ska alltid va(ra) med. Hmmm. Men det är ok, om m
 Tack för att du lyssnar på Lätt svenska med Oscar. Ha en bra dag! Vi hörs igen snart! Hejdå, hejdå, hejdå.
 
 
-[//]: # (### Grammatik 11)
-
 **Grammatik 11**
 
 _____________________________________________________________________________________
@@ -590,9 +494,6 @@ ________________________________________________________________________________
 * [Lektion 30. I klädaffären.](https://quizlet.com/697550765/%D0%A3%D1%80%D0%BE%D0%BA-30-%D0%92-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B-flash-cards/)
 * [Lektion 31. Färger etc.](https://quizlet.com/697553276/%D0%A3%D1%80%D0%BE%D0%BA-31-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80-flash-cards/)
 
-
-
-[//]: # (### Text 12)
 
 **Text 12** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10453{and}hl=ru\|en)
 
@@ -637,9 +538,6 @@ ________________________________________________________________________________
 - Välkommen åter!
 
 
-
-[//]: # (### Grammatik 12)
-
 **Grammatik 12**
 
 _____________________________________________________________________________________
@@ -652,10 +550,7 @@ ________________________________________________________________________________
 * [Lektion 32. I kläd- och skoaffären.](https://quizlet.com/698233958/%D0%A3%D1%80%D0%BE%D0%BA-32-%D0%9E%D0%B1%D1%83%D0%B2%D1%8C-%D0%B8-%D0%BF%D1%80-%D0%A2%D0%B5%D0%BA%D1%81%D1%82-13-flash-cards/)
 
 
-
-[//]: # (### Text 13)
-
-**Text 13** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru\|en)
+**Text 13 (A2)** [Öppna texten i Clilstore.eu](https://clilstore.eu/wordlink/?navsize=1&sl=sv&url=https://clilstore.eu/clilstore/page.php?id=10454{and}hl=ru\|en)
 
 - Hej, har ni herrkläder?
 
@@ -698,23 +593,31 @@ ________________________________________________________________________________
 - Inga problem!
 
 
-[//]: # (### Grammatik 13)
-
 **Grammatik 13**
 
 _____________________________________________________________________________________
 
-## 14. 
+## 14. Att vänta i Sverige. Valerys berättelse
 
 **Ordlektioner i Quizlet**
 
-*
+* [Урок 33. Глаголы к тексту 14.](https://quizlet.com/699723289/%D0%A3%D1%80%D0%BE%D0%BA-33-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D0%BA-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83-14-flash-cards/)
+* [Урок 34. Verbformer. Формы глаголов.](https://quizlet.com/699950207/%D0%A3%D1%80%D0%BE%D0%BA-34-verbformer-%D0%A4%D0%BE%D1%80%D0%BC%D1%8B-%D0%B3%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2-flash-cards/)
+* [Урок 35. Существительные к Тексту 14.](https://quizlet.com/699958994/%D0%A3%D1%80%D0%BE%D0%BA-35-%D0%A1%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA-%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D1%83-14-flash-cards/)
+* [Урок 36. Определенные и неопределенные формы существительных.](https://quizlet.com/700299923/%D0%A3%D1%80%D0%BE%D0%BA-36-%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B8-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-flash-cards/)
+* [Урок 37. Наречия, предлоги и пр. к Тексту 14](https://quizlet.com/701063887/%D0%A3%D1%80%D0%BE%D0%BA-37-%D0%9D%D0%B0%D1%80%D0%B5%D1%87%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8-%D0%B8-%D0%BF%D1%80-%D0%BA-%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D1%83-14-flash-cards/)
 
+**Text 14 (A2)** [Öppna text i Clilstore.eu](https://clilstore.eu/cs/10472)
 
+Jag kom till Sverige i början på april. Jag, min fru och mina två söner flydde från kriget i Ukraina. Vi bodde i Mariupol förut.
 
-[//]: # (### Text 14)
+I Sverige ansökte vi om flyktingstatus från Migrationsverket. Vi väntade länge på deras beslut. Det tog fyra veckor innan vi fick beslutet på posten.
 
-**Text 14**
+För tre veckor sedan var vi igen på Migrationsverket. Vi tog foto och lämnade fingeravtryck. De behövde detta för att göra ett LMA-kort. LMA står för Lag om Mottagande av Asylsökande, och LMA-kortet är ett första ID man får. Utan LMA-kortet kan man göra väldigt lite. Vi väntar fortfarande på ett LMA-kort. Det gick redan 3 veckor sedan fotograferingen!
+
+Under tiden ansökte vi om samordningsnummer. Det är det andra ID-numret man behöver. Vi gick till ett servicekortor och fyllde i massa papper. De ville ha kopior på våra pass och LMA-nummer. Samordnigsnumret är jättteviktigt: man kan söka jobb, registrera sig på Arbetsförmedlingen, ansöka om bankkonto, och så vidare. Samordningsnummer är en variant av personnummer och har också tio siffror: din födelsedag (ÅÅMMDD) och fyra kodsiffror, ungefär så här: 430218-4567. Det betyder att en person är född år 1943, månad februari, datum 18. Men för att skilja mellan samordningsnummer och personnummer, plussar man på 60 (+60) till födelsedatum (18). Det blir då 19430278-4567.
+
+Nu väntar vi på våra samordningsnummer. Sedan ska vi registrera oss på Arbetsförmedlingen och ansöka om bankkonto. Och vänta igen. Det är mycket väntetid i Sverige innan man kan börja söka jobb.
 
 
 **Grammatik 14**
@@ -722,39 +625,250 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-## 15. 
+## 15. Recept: gissa vilken rätt det är?
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
+* [Урок 38. Еда. Завтрак.](https://quizlet.com/703932029/%D0%A3%D1%80%D0%BE%D0%BA-38-%D0%95%D0%B4%D0%B0-%D0%97%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA-flash-cards/)
+* [Урок 39. Прошедшее время.](https://quizlet.com/704132567/%D0%A3%D1%80%D0%BE%D0%BA-39-%D0%9F%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-flash-cards/)
+* [Урок 40. Рецепт.](https://quizlet.com/704486566/%D0%A3%D1%80%D0%BE%D0%BA-40-%D0%A0%D0%B5%D1%86%D0%B5%D0%BF%D1%82-flash-cards/)
+* [Урок 41. Глаголы в повелительном наклонии](https://quizlet.com/704490909/%D0%A3%D1%80%D0%BE%D0%BA-41-%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B-%D0%B2-%D0%BF%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D0%BD%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8-flash-cards/)
 
-* 
+**Text 15 (A2)** [Öppna texten i Clilstore.eu](https://clilstore.eu/cs/10491)
 
-**Text 15**
+Gör så här
 
-[//]: # (### Text 15 )
+Ingredienser:
 
+* 1 kg kycklingfilé eller rökt skinka
+* gul lök
+* 1 kg potatis
+* 0,5 kg saltad gurka
+* 0,5 kg gröna ärtor
+* 8 ägg
+
+(Till såsen)
+
+* 3 dl majonnäs
+* 1 dl olivolja
+* 0,5 dl citron, saft
+* salt (efter smak)
+* vitpeppar (efter smak)
+
+(Till dekoration)
+
+* gurka
+* tomat
+
+Recept:
+
+* Koka kycklingen med hackad lök och salt (eller använd rökt skinka).
+* Koka potatisen.
+* Koka äggen.
+* Låt kycklingen, potatisen och äggen svalna.
+* Skala potatisen och äggen.
+* Hacka potatis, ägg, kyckling och saltad gurka i små bitar.
+* Blanda ingredienserna och lägg till gröna ärtor.
+* Gör en sås med majonnäs, citronsaft, olivolja, salt och vitpeppar.
+* Blanda i såsen med de övriga ingredienserna.
+* Salta och peppra vid behov.
+* Dekorera gärna med skurna bitar av tomat och gurka.
+
+SMAKLIG MÅLTID!
+
+Kan du gissa vilken rätt det är?
 
 
 **Grammatik 15**
 
 _____________________________________________________________________________________
 
-## 16. 
+## 16. Måltider. Frukost
 
-Text: 
+**Ordlektioner i Quizlet**
 
-Ordlektioner:
+* [Урок 42. Завтрак.](https://quizlet.com/705325843/%D0%A3%D1%80%D0%BE%D0%BA-42-%D0%97%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA-flash-cards/)
 
-* 
+**Text 16 (A2)**  [Öppna texten i Clilstore.eu](https://clilstore.eu/cs/10487)
 
-**Text 16**
+Till frukost brukar vi ha något av följande: ägg, flingor, smörgås med pålägg (eller macka), havregryn, mjölk, yogurt, te och kaffe.
 
+Min favorit frukost är en macka: rostat bröd med smör, ost och salami. Och svart kaffe.
+
+Min äldsta dotter tycker om toast med ost, kalvkorv och tomat. Absolut inget smör! Och yoghurt.
+
+Min yngsta dotter vill gärna äta pannkakor med Nutella, eller kesoplättar med strösocker, med mjölk. Ibland äter hon flingor med mjlölk eller havregryn. Det tar tid på morgonen att laga havregryn, kesoplättar eller pannkakor. Därför gör vi detta inte varje morgon.
+
+Min mans favorit frukost består av cappucino och äggröra med korv.
+
+Vad tycker du om att äta till frukost? Skriv ner och berätta
 
 
 **Grammatik 16**
 
+_____________________________________________________________________________________
 
+## 17. Pannkakor
+
+**Ordlektioner i Quizlet**
+
+* [Урок 43. Блины](https://quizlet.com/705525248/%D0%A3%D1%80%D0%BE%D0%BA-43-%D0%91%D0%BB%D0%B8%D0%BD%D1%8B-flash-cards/)
+
+**Text 17 (A2)**  [Öppna texten i Clilstore.eu](https://clilstore.eu/cs/10498)
+
+Recept på pannkakor
+
+1 sats ger ca 8-10 pannkakor beroende på storlek på stekpannan.
+
+Ingredienser:
+
+* 3 ägg
+* 6 dl mjölk
+* 2,5 dl mjöl (t.ex. vetemjöl)
+* 1 tsk vaniljsocker
+* 1 matsked (msk) olja
+* 1 matsked socker
+
+(Till servering)
+
+* jordgubbar eller andra bär
+* sylt
+* Nutella
+* vispgrädde
+* florsocker
+
+Instruktioner:
+
+* Vispa äggen med salt i en skål.
+* Vispa i hälften av mjölken.
+* Blanda i mjöl och vispa till en slät smet.
+* Vispa i resten av mjölken och blanda i olja och socker.
+* Stek tunna pannkakor i lite smör i en stekpanna.
+
+Klart! Servera med sylt, bär, frukt, vispgrädde, florsocker eller Nutella.
+
+
+**Grammatik 17**
+
+_____________________________________________________________________________________
+
+## 18. Datum, månader, år
+
+**Ordlektioner i Quizlet**
+
+* [Урок 44. Порядковые числительные](https://quizlet.com/708229818/%D0%A3%D1%80%D0%BE%D0%BA-44-%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-flash-cards/)
+* [Урок 45. Даты, месяца, числа.](https://quizlet.com/708255959/%D0%A3%D1%80%D0%BE%D0%BA-45-%D0%94%D0%B0%D1%82%D1%8B-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-flash-cards/)
+
+**Text 18 (A2)**  [Öppna texten i Clilstore.eu](https://clilstore.eu/cs/10517)
+
+Nu ska vi använda siffrorna!
+
+Januari är årets första månad. Den sjätte januari är det Trettondagen, sista dagen på jullovet. Barnen går till skolan den sjunde januari.
+
+Februari är årets andra månad. Den fjortonde februari firar vi Alla hjärtans dag (Eng. St.Valentine's day)!
+
+Mars är den tredje månaden på året. Runt tjugonde mars är det dagjämning och persiska Nyår.
+
+April är den fjärde månaden. Alla känner till den svenska musikgruppen ABBA, eller hur? ABBAs gitarrist och låtskrivare Björn Ulvaeus föddes den tjugofemte april nittonhundra fyrtiofem (1945). ABBAS sångerska och kompositör Agneta Fältskog föddes den femte april nittonhundra femtio (1950).
+
+Maj är den femte månaden. Carl Linnaeus, en känd svensk, var född den tjugotredje maj sjuttonhundrasju (1707).
+
+Juni är den sjätte månaden. Vi firar midsommaren under sommarsolståndet, runt den tjugoförsta juni.
+
+Juli är den sjunde månaden. De flesta i Sverige går på semester i juli, även skolorna och förskolorna är stängda.
+
+Augusti är den åttonde månaden. Barnen börjar i skolan i Sverige i slutet av augusti, runt artonde eller nittonde augusti.
+
+September är årets nionde månad. Avicii, en känd svensk DJ och musiker, föddes den åttonde september nittonhundra åttionio (1989).
+
+Oktober är årets tionde månad.  Vi firar Halloween den trettionde oktober. Zlatan Ibrahimović, en känd svensk fotbollsspelare, var född den tredje oktober nittonhundra åttioett (1981).
+
+November är årets elfte månad. Anders Celcius, en känd svensk vetenskapsman, var född den tjugosjunde november sjuttonhundra ett (1701). Vi använder hans namn när vi pratar om temperaturen, till exempel, arton grader Celcius (18°C).
+
+December är den tolfte månaden. Alfred Nobel, en känd svensk uppfinnare, föddes den tjugoförsta oktober artonhundra trettiotre (1833). Han dog den tionde december artonhundra nittiosex (1896). Den tionde december har vi Nobeldagen i Stockholm till hans minne och delar ut Nobelpriserna. 
+
+
+**Grammatik 18**
+
+_____________________________________________________________________________________
+
+## 19. Måltider. Lunch
+
+**Ordlektioner i Quizlet**
+
+* [Урок 46. Приемы пищи. Обед](https://quizlet.com/708276779/%D0%A3%D1%80%D0%BE%D0%BA-46-%D0%9F%D1%80%D0%B8%D0%B5%D0%BC%D1%8B-%D0%BF%D0%B8%D1%89%D0%B8-%D0%9E%D0%B1%D0%B5%D0%B4-flash-cards/)
+
+**Text 19 (A2)**  [Öppna texten i Clilstore.eu](https://clilstore.eu/cs/10495)
+
+Till lunch äter vi olika rätter. Ibland är det soppa, till exempel kycklingsoppa, svampsoppa, fisksoppa eller borsch. Men oftast är det pasta, ris, bulgur eller potatis med kött. Hittar man bovete på mataffären, kan man njuta av bovete med hemmlagad köttlimpa.
+
+Min yngsta dotters favorit är bakad klyftpotatis med lax eller bakad kyckling. Hon tycker även om pasta-rätter, till exempel lasagne eller spaghetti med köttbullar.
+
+Min äldsta dotter äter gärna mycket grönt, men även hamburgare, taco, matpajer och grillat kött.
+
+Jag äter allt, men min absoluta favorit är grillat fläsk med grillade grönsaker, till exempel paprika, zucchini och aubergine. Gärna med guacamole sås till det. Min man grillar det bästa köttet och de godaste grönsakerna. Jag älskar även matpajer, till exempel Västerbottenpaj. Ibland lagar vi mat själva, och ibland äter vi ute.
+
+Smaklig måltid!
+
+
+**Grammatik 19**
+
+_____________________________________________________________________________________
+
+## 20. Gillar du att laga mat?
+
+**Ordlektioner i Quizlet**
+
+* [Урок 47. Тебе нравится готовить?](https://quizlet.com/708303202/%D0%A3%D1%80%D0%BE%D0%BA-47-%D0%A2%D0%B5%D0%B1%D0%B5-%D0%BD%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%81%D1%8F-%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-flash-cards/)
+
+**Text 20 (A2)**  [Öppna texten i Clilstore.eu]( https://clilstore.eu/cs/10516)
+
+Hej-hej, välkommen till Lätt svenska med Oscar. Idag ska vi prata om att laga mat. Att laga mat. Välkommen!
+
+Uh, okej, mina vänner, haha. Det är juli, juli månad, sjunde månaden. Det är varmt. En varm dag. Och det är lite varmt inomhus. Jag längtar efter att gå ut. Det ska jag göra snart. Men först ska vi prata om att laga mat.
+
+Brukar du laga mat? Gillar du att laga mat? Att stå och greja? Fixa och greja i köket? Laga mat i köket.
+
+Vad brukar du laga för mat? Lagar du mycket svensk mat? Eller lagar du italjensk mat? Fransk mat? Eller lagar du indisk mat? Eller lagar du japansk mat - ramen, sushi? 
+
+Jag lagar mycket mat hemma till familjen. Jag lagar mat till min sambo (flickvän, min sambo) och mina barn, mina två barn. Och vi turas om, kan man säga, jag och min sambo att laga mat. Varannan kväll, ungefär (every other night (English) - varannan kväll). Och vi lagar, hmmm, potatismos och köttbullar med lingonsylt. Vi lagar köttfärssås och spaghetti, fiskpinnar och potatis, potatis i ugn. Vi lagar rostbiff. Vi lagar ramen från Japan. Vi lagar olika soppor (soppa - soppor, haha, soppa, soppa). Vi lagar olika saker. Vi försöker att inte äta alldelles för mycket samma sak hela tiden. Vi äter olika saker, och barnen gillar (barnen, våra barn, gillar) att äta nästan allt. Så det går bra!
+
+Och om man inte gillar att laga mat, vad gör man då? Vad ska man äta då? Då ska man beställa mat. Beställa mat eller gå på restaurang. Och äta ute blir dyrt, kostar mycket pengar att äta ute varje dag. Äta ute till lunch, äta ute till middag. Vissa gör ju det. Vissa äter ju ute jämt. Alltid ute. Hur har de råd?
+
+Vi åker och handlar - storhandlar - på affären (handla på affären) och sen lagar mat hemma.
+
+Okej, det var allt för idag, mina vänner. Tack för att du har lyssnat på Lätt svenska med Oscar! V hörs igen snart! Lyssna varje dag, så blir du bättre och bättre. Och det blir enklare och enklare. Det blir roligare och roligare. Okej, hej-hej.
+
+
+**Grammatik 20**
+
+_____________________________________________________________________________________
+
+## 21. 
+
+**Ordlektioner i Quizlet**
+
+* 
+
+**Text 21**  [Öppna texten i Clilstore.eu]()
+
+
+
+**Grammatik 21**
+
+_____________________________________________________________________________________
+
+## 22. 
+
+**Ordlektioner i Quizlet**
+
+* 
+
+**Text 22**  [Öppna texten i Clilstore.eu]()
+
+
+
+**Grammatik 22**
 
 
 
