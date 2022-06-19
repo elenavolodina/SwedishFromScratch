@@ -23,8 +23,6 @@ _Useful links_
 _____________________________________________________________________________________
 ## Содержание (Innehåll)
 
-[Texts till SwedishFromScratch](#terminologi-svenska---engelska)
-
 [01. Vad heter du?](#01-vad-heter-du)
  
 [02. Kronprinsessan Victoria](#02-kronprinsessan-victoria) 
@@ -41,31 +39,31 @@ ________________________________________________________________________________
 
 [08. Grattis på födelsedagen!](#08-grattis-på-födelsedagen)
 
-[09. Ansökan och personuppgifter](09-ansökan-och-personuppgifter)
+[09. Ansökan och personuppgifter](#09-ansökan-och-personuppgifter)
 
-[10. Jobbintervju](10-jobbintervju)
+[10. Jobbintervju](#10-jobbintervju)
 
-[11. Dricker du kaffe?](11-dricker-du-kaffe)
+[11. Dricker du kaffe?](#11-dricker-du-kaffe)
 
-[12. Att köpa kläder](12-att-köpa-kläder)
+[12. Att köpa kläder](#12-att-köpa-kläder)
 
-[13. I kläd- och skoaffären](13-i-kläd--och-skoaffären)
+[13. I kläd- och skoaffären](#13-i-kläd--och-skoaffären)
 
-[14. Att vänta i Sverige. Valerys berättelse](14-att-vänta-i-sverige-valerys-berättelse)
+[14. Att vänta i Sverige. Valerys berättelse](#14-att-vänta-i-sverige-valerys-berättelse)
 
-[15. Recept: gissa vilken rätt det är?](15-recept-gissa-vilken-rätt-det-är)
+[15. Recept: gissa vilken rätt det är?](#15-recept-gissa-vilken-rätt-det-är)
 
-[16. Måltider. Frukost](16-måltider-frukost)
+[16. Måltider. Frukost](#16-måltider-frukost)
 
-[17. Pannkakor](17-pannkakor)
+[17. Pannkakor](#17-pannkakor)
 
-[18. Datum, månader, år](18-datum-månader-år)
+[18. Datum, månader, år](#18-datum-månader-år)
 
-[19. Måltider. Lunch](19-måltider-lunch)
+[19. Måltider. Lunch](#19-måltider-lunch)
 
-[20. Gillar du att laga mat?](20-gillar-du-att-laga-mat)
+[20. Gillar du att laga mat?](#20-gillar-du-att-laga-mat)
 
-[21. ](21-)
+[21. ](#21-)
 
 _____________________________________________________________________________________
 
