@@ -14,6 +14,11 @@ Kursen startades av [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/e
 * [Julia Prentice](https://www.gu.se/en/about/find-staff/juliagrosse) - grammatiska förklaringar på svenska
 * Ksenia och Anastaia Tcherednitchenko - uppläsare på ordförrådsövningar och texterna
 
+**Grammatik-referenser**
+
+* http://www.sweden4rus.nu/rus/info/grammatik/
+* https://svspb.net/bok/
+* https://elenavolodina.github.io/SwedishFromScratch/Grammar
 
 _____________________________________________________________________________________
 _Useful links_
@@ -99,6 +104,8 @@ ________________________________________________________________________________
 
 **Grammatik 01**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=1)
+* 
 * Ordföljd i frågor 
 * Ordföljd i påståenden
 * Ordna fraser till en text (textförståelse) 
@@ -132,6 +139,8 @@ Victorias foräldrar kommer från familjen Bernadotte. Drottning Silvia är morm
 
 **Grammatik 02**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=2)
+* 
 * Ordföljd, och speciellt med "och" i meningar
 * Ordna meningar till en text
 * Prepositioner: till, av, från. Find & mark, Multiple choice, Free writing
@@ -177,6 +186,8 @@ När kommer han fram till Lindholmen?
 
 **Grammatik 03**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=3)
+* 
 * Ordföljd: frågor vs påståenden
 * Frågeord: när, vilken tid
 * Prepositioner: vid, i, till, på, från, fram
@@ -230,6 +241,8 @@ Vad gör du? Vem vill du bli? Vad är din hobby?
 
 **Grammatik 04**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=4)
+
 _____________________________________________________________________________________
 
 ## 05. Var bor du? 
@@ -281,6 +294,8 @@ Okej. Tack för idag allihopa. Vi hörs igen snart. Hejdå!
 
 **Grammatik 05**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=5)
+
 _____________________________________________________________________________________
 
 ## 06. Påsk i Sverige
@@ -305,6 +320,8 @@ Glad Påsk!
 
 
 **Grammatik 06**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=6)
 
 _____________________________________________________________________________________
 
@@ -335,6 +352,8 @@ Vilka årstider gillar du? Vilka månader gillar du? När har barnen skollov i d
 
 **Grammatik 07**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=7)
+
 _____________________________________________________________________________________
 
 ## 08. Grattis på födelsedagen!
@@ -361,6 +380,8 @@ På kvällen ska Artem ha fest med familj och äta mer tårta.
 Grattis, Artem! Grattis på födelsedagen!
 
 **Grammatik 08**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=8)
 
 
 _____________________________________________________________________________________
@@ -409,6 +430,8 @@ Testa att fylla i tabellen med dina personuppgifter:
 
 **Grammatik 09**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=9)
+
 _____________________________________________________________________________________
 
 ## 10. Jobbintervju
@@ -447,6 +470,8 @@ ________________________________________________________________________________
 
 **Grammatik 10**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=10)
+
 _____________________________________________________________________________________
 
 ## 11. Dricker du kaffe?
@@ -481,6 +506,8 @@ Tack för att du lyssnar på Lätt svenska med Oscar. Ha en bra dag! Vi hörs ig
 
 
 **Grammatik 11**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=11)
 
 _____________________________________________________________________________________
 
@@ -538,6 +565,8 @@ ________________________________________________________________________________
 
 **Grammatik 12**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=12)
+
 _____________________________________________________________________________________
 
 ## 13. I kläd- och skoaffären
@@ -593,6 +622,8 @@ ________________________________________________________________________________
 
 **Grammatik 13**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=13)
+
 _____________________________________________________________________________________
 
 ## 14. Att vänta i Sverige. Valerys berättelse
@@ -620,6 +651,7 @@ Nu väntar vi på våra samordningsnummer. Sedan ska vi registrera oss på Arbet
 
 **Grammatik 14**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=14)
 
 _____________________________________________________________________________________
 
@@ -679,6 +711,8 @@ Kan du gissa vilken rätt det är?
 
 **Grammatik 15**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=15)
+
 _____________________________________________________________________________________
 
 ## 16. Måltider. Frukost
@@ -703,6 +737,8 @@ Vad tycker du om att äta till frukost? Skriv ner och berätta
 
 
 **Grammatik 16**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=16)
 
 _____________________________________________________________________________________
 
@@ -748,6 +784,8 @@ Klart! Servera med sylt, bär, frukt, vispgrädde, florsocker eller Nutella.
 
 **Grammatik 17**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=17)
+
 _____________________________________________________________________________________
 
 ## 18. Datum, månader, år
@@ -788,6 +826,8 @@ December är den tolfte månaden. Alfred Nobel, en känd svensk uppfinnare, föd
 
 **Grammatik 18**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=18)
+
 _____________________________________________________________________________________
 
 ## 19. Måltider. Lunch
@@ -810,6 +850,8 @@ Smaklig måltid!
 
 
 **Grammatik 19**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=19)
 
 _____________________________________________________________________________________
 
@@ -840,6 +882,8 @@ Okej, det var allt för idag, mina vänner. Tack för att du har lyssnat på Lä
 
 **Grammatik 20**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=20)
+
 _____________________________________________________________________________________
 
 ## 21. 
@@ -853,6 +897,9 @@ ________________________________________________________________________________
 
 
 **Grammatik 21**
+
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=21)
+
 
 _____________________________________________________________________________________
 
@@ -868,5 +915,6 @@ ________________________________________________________________________________
 
 **Grammatik 22**
 
+* [textövningar (David Alfter): substantiv, verb, pronomen, adjektiv, adverb, preposition, ...](https://spraakbanken.gu.se/larkalabb/sfs/?lesson_number=22)
 
 
