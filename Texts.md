@@ -11,8 +11,6 @@ Kursen startades av [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/e
 
 * [David Alfter](https://spraakbanken.gu.se/en/about/staff/david) - grammatiska övningar och algoritmerna
 * [Arianna Masciolini](https://spraakbanken.gu.se/en/about/staff/arianna) - grammatiska övningar och algoritmerna
-* [Julia Prentice](https://www.gu.se/en/about/find-staff/juliagrosse) - grammatiska förklaringar på svenska
-* Ksenia och Anastaia Tcherednitchenko - uppläsare på ordförrådsövningar och texterna
 
 **Grammatik-referenser**
 
