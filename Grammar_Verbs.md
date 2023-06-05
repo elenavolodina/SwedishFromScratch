@@ -9,12 +9,12 @@ ________________________________________________________________________________
 ## Содержание (Innehåll)
 
 [1. Verb. Глагол.](#1-verb-глагол)
-  - [Verb grupper](#verb-grupper)
-  - [Verb grupp 1](#verb-grupp-1)
-  - [Verb grupp 2](#verb-grupp-2)
-  - [Verb grupp 3](#verb-grupp-3)
-  - [Verb grupp 4](#verb-grupp-4)
-  - [Verb grupper 1-4.](#verb-grupper-1-4)
+  - [1.1 Verb grupper](#11-verb-grupper)
+  - [1.2 Verb grupp 1](#12-verb-grupp-1)
+  - [1.3 Verb grupp 2](#13-verb-grupp-2)
+  - [1.4 Verb grupp 3](#14-verb-grupp-3)
+  - [1.5 Verb grupp 4](#15-verb-grupp-4)
+  - [1.6 Verb grupper 1-4.](#16-verb-grupper-1-4)
   
 [2. Substantiv. Существительное.](https://elenavolodina.github.io/SwedishFromScratch/Grammar) 
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Verb grupper
+### 1.1 Verb grupper
 
 Källa: https://sfipatxi.wordpress.com/2017/10/09/verb/
 
@@ -89,7 +89,7 @@ Det finns fyra olika verbgrupper på svenska. Grupp 1, 2 och 3 är regelbundna v
 _____________________________________________________________________________________
 
 
-### Verb grupp 1
+### 1.2 Verb grupp 1
 
 **РУССКИЙ** 
 
@@ -138,7 +138,7 @@ Fler verb i grupp 1: städa, bada, fråga, börja, sluta, tala, arbeta, parkera,
 
 _____________________________________________________________________________________
 
-### Verb grupp 2
+### 1.3 Verb grupp 2
 
 **РУССКИЙ** 
 
@@ -191,7 +191,7 @@ Fler verb i grupp 2: höra, hyra, behöva, ställa, känna, hända, använda, k�
 
 _____________________________________________________________________________________
 
-### Verb grupp 3
+### 1.4 Verb grupp 3
 
 **РУССКИЙ** 
 
@@ -246,7 +246,7 @@ Fler verb i grupp 3: ro, ske, sy, spy, klä, glo osv.
 
 _____________________________________________________________________________________
 
-### Verb grupp 4
+### 1.5 Verb grupp 4
 
 **РУССКИЙ** 
 
@@ -310,7 +310,7 @@ Grupp 4 delas in i två grupper: starka och oregelbundna verb. Oregelbundna verb
 _________________________________________________________________________
 
 
-### Verb grupper 1-4.
+### 1.6 Verb grupper 1-4.
 
 **Глаголы группы 1-4. Сводная таблица.**
 
