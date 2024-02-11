@@ -6,6 +6,14 @@ asciidoc
 |||
 |===== 
 --> 
+
+# Deep Learning for Coders with fastai and PyTorch
+_by Jeremy Howard and Sylvain Gugger_
+
+## Chapter 1. Getting started
+
+### Terminology
+
 | Term | Meaning
 |--|--
 |Label | The data that we're trying to predict, such as "dog" or "cat"
