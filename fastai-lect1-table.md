@@ -1,9 +1,13 @@
+<!--
 asciidoc
 [[dljargon]]
 .Deep learning vocabulary
 [options="header"]
-|=====
+|||
+|===== 
+--> 
 | Term | Meaning
+|--|--
 |Label | The data that we're trying to predict, such as "dog" or "cat"
 |Architecture | The _template_ of the model that we're trying to fit; the actual mathematical function that we're passing the input data and parameters to
 |Model | The combination of the architecture with a particular set of parameters
