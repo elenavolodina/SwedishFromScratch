@@ -15,13 +15,15 @@ resources:
   - cs-romani   
   - cs-seclearn 
   - de-merlin   
-  - el-glcii    
+  - el-glcii  
+  - en-writeandimprove2024
   - et-eic      
   - et-ekil2    
   - is-IceEC    
   - is-IceL2EC  
   - it-merlin   
-  - lv-lava     
+  - lv-lava   
+  - ru-rulec
   - sl-solar_eval     
   - sv-swell_gold     
   - uk-ua_gec 
@@ -29,23 +31,25 @@ language_codes:
   - ces
   - deu
   - ell
+  - eng
   - est
   - isl
   - ita
   - lav
+  - rus
   - slv
   - swe
   - ukr
 downloads: []
 interface:
-  - access: https://lt3.ugent.be/resources/multigec-2025-shared-task/
+  - access: https://lt3.ugent.be/resources/multigec-dataset
     licence: subject to Terms of Use
     restriction: attribution, no-redistribution, no use with the proprietary models, no commercial use, personal access
 contact_info:
-  name: Elena Volodina | Orphée DeClercq
+  name: Elena Volodina | Orphée De Clercq
   email: multigec@svenska.gu.se
   affiliation:
-    organisation: Språkbanken Text | Ghent University
+    organisation: Språkbanken Text, Sweden | Ghent University, Belgium
     email: sb-info@svenska.gu.se
 annotation:
   swe: ''
@@ -59,32 +63,20 @@ caveats:
   swe: ''
   eng: The data is relatively homogeneous, consisting of full-text second language essays and their corrections. However, for some languages, native or heterogeneous data is used; and in certain languages the data does not contain full-text essays, but fragments of texts. Details on these aspects are provided on a dedicated webpage: https://spraakbanken.gu.se/en/compsla/multigec-dataset
 other_references:
-  - '[INFO]: https://spraakbanken.gu.se/en/compsla/multigec-dataset'
+  - '[INFO]: https://spraakbanken.github.io/multigec-2025/'
   - '[HOW TO CITE 1]: {publication to_be_added}'
   - '[HOW TO CITE 2]: {publication to_be_added}'
 intended_uses:
   swe: ''
-  eng: Grammatical Error Correction, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data
+  eng: Grammatical Error Correction, (Second) Language Acquisiton studies, Learner Corpus Research, Noisy User-produced Data, pedagogical cases
     
 description:
   swe: ''
   eng: |-
-    <p>MultiGEC dataset descriptionp>
+    <p>MultiGEC dataset descriptionp</p>
 
-    <p>There are three subcorpora in the SweLL-pilot collection:</p>
-
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
-
-    <h2>Links</h2>
-
-    <ul>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        
-    </ul>
+    <p>MultiGEC is a dataset for Multilingual Grammatical Error Correction in 12 European languages (Czech, English, Estonian, German, Greek, Icelandic, Italian, Latvian, Russian, Slovene, Swedish and Ukrainian) compiled by the CompSLA working group and over 20 external data providers in the context of MultiGEC-2025, the first text-level GEC shared task.</p>
+    <p>The MultiGEC dataset is divided into 17 subcorpora covering different languages, domains and correction styles, summarized below. More detailed information about each subcorpus is available as machine-readable metadata, whose format is described here (https://spraakbanken.github.io/multigec-2025/data_format.html). </p>
+   
 doi: 
 
