@@ -1,1 +1,60 @@
+name:
+  swe: SweLL
+  eng: SweLL
+short_description:
+  swe: En samling av SweLL korpusar och derivata resurser med ursprung i dessa korpusar. SweLL korpusar består av elevtexter som skrevs av elever med andra modersmål än svenska (andraspråkskorpusar). Alla texter samlades inom provsituationer (ej hemuppgifter).
+  eng: A collection of SweLL corpora and derivative resources coming from these corpora. SweLL corpora consisf of learner texts written by learners with other mother tongues than Swedish. All texts have been collected in test situations (none of them coming from home-written tasks).
+type: corpus
+trainingdata: false
+unlisted: false
+successors: []
+collection: true
+
+resources:
+  - swell-pilot
+  - swell-gold
+  - dalaj-1-0
+  - dalaj-ged-superlim
+  - multiged
+  - multigec
+language_codes:
+  - swe
+  - mul
+downloads:
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim-2-2.0.4.zip
+    type: an archive with the whole collection (datasets, documentation sheets, additional
+      files)
+    format: zip
+    info: ''
+    licence: CC BY 4.0
+    restriction: attribution
+  - url: https://spraakbanken.gu.se/lb/resurser/data/SuperLim_maintenance.odt
+    type: internal instructions on how (not) to update the Superlim 2.0
+    format: odt
+    info: ''
+    licence: ''
+    restriction: ''
+contact_info:
+  name: Markus Forsberg
+  email: sb-info@svenska.gu.se
+  affiliation:
+    organisation: Språkbanken
+    email: sb-info@svenska.gu.se
+description:
+  swe: ''
+  eng: See the leaderboard <a href="https://lab.kb.se/leaderboard/results">here</a>. See a detailed description of the collection <a href="https://github.com/spraakbanken/SuperLim-2/blob/main/README.md">here</a>.
+annotation:
+  swe: ''
+  eng: ''
+keywords: []
+caveats:
+  swe: ''
+  eng: ''
+standard_reference: "Aleksandrs Berdicevskis, Gerlof Bouma, Robin Kurtz, Felix Morger, Joey Öhman, Yvonne Adesam, Lars Borin, Dana Dannélls, Markus Forsberg, Tim Isbister, Anna Lindahl, Martin Malmsten, Faton Rekathati, Magnus Sahlgren, Elena Volodina, Love Börjeson, Simon Hengchen, and Nina Tahmasebi. 2023. Superlim: A Swedish Language Understanding Evaluation Benchmark. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 8137–8153, Singapore. Association for Computational Linguistics</i>. <a href='https://aclanthology.org/2023.emnlp-main.506/'>Publication</a> <a href='https://spraakbanken.gu.se/forskning/publikationer/bibtex/331445'>Bibtex</a>"
+other_references: []
+intended_uses:
+  swe: ''
+  eng: ''
+updated: 2024-01-25
+doi: 10.23695/kzyd-b925
 
