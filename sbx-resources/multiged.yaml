@@ -21,8 +21,8 @@ downloads:
 - https://github.com/spraakbanken/multiged-2023/
 interface:
   - access: https://github.com/spraakbanken/multiged-2023/
-    licence: varied between the languages
-    restriction: 
+    licence: varies between the languages
+    restriction: varies between the languages
 creators:
   - Elena Volodina
   - Chris Bryant
@@ -40,7 +40,8 @@ contact_info:
     email: sb-info@svenska.gu.se
 annotation:
   swe: 
-  eng: 
+  eng: each token has a label c or i - for correct and incorrect
+  
 keywords:
   - grammatical error detection
   - token-level detection
@@ -48,7 +49,7 @@ keywords:
   - sentences
   - multilinguality
 caveats:
-  swe: 'Datan är relativt homogena, dock kan sättet som begreppet fel har definiterats i de olika ursprungskorpusarna variera och påverka MultiGED datan." 
+  swe: "Datan är relativt homogena, dock kan sättet som begreppet fel har definiterats i de olika ursprungskorpusarna variera och påverka MultiGED datan." 
   eng: "The data is relatively homogeneous, although the definition of an error span is slightly different between the included languages." 
 
 standard_reference: {publication 331652}
@@ -71,4 +72,4 @@ description:
  See more on data format <a here href="https://spraakbanken.github.io/multiged-2023/">. </p>
 
 updated: 2025-01-19
-doi: 10.23695/h9f5-8143
+doi: 
