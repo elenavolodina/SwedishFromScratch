@@ -59,7 +59,7 @@ description:
     <br><h3><b>Dataset description</b></h3>
 
     <p><b>Nr.sentences</b> 8,553</p>
-    <p><b>Nr tokens</b> 155,415 </p>
+    <p><b>Nr.tokens</b> 155,415 </p>
     <p>Data is provided in a tab-separated format consisting of five columns, namely, token id, token, list of error codes for addition, list of error codes for deletion and list of codes for replacement.  
  See more on data format in the standard reference article. </p>
 
