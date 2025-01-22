@@ -12,9 +12,9 @@ language_codes: [swe]  # Which language is this resource about? Supply the ISO 6
 size:
   entries: 6967
 in_collections: 
-  - learner language  # ID(s) of the collections the resource is part of
+  - learner_language  # ID(s) of the collections the resource is part of
   - swell
-  - L2 profiles
+  - L2_profiles
 downloads:  # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - url: '<TODO>'  # URL to a downloadable file
     type: lexicon  # What's in the file?
