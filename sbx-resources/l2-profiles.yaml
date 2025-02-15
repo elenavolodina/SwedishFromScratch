@@ -35,8 +35,6 @@ description:
     <li><b>Swe-MWELex</b> is a list of multi-word expressions based on Sen*Lex, with CEFR labels and subcategorizations of MWEs into several types </li>
     <li><b>L2Lex-Adj</b> is a list of adjectives based on Sen*Lex, with CEFR labels, information on adjectival declensions and frequences.</li>
     <li><b>L2Lex-AdjAdv</b> is a list of adjectives and adverbs based on Sen*Lex, with CEFR labels, information on patterns of comparative degrees and frequences.</li>
-    <li><b>COCTAILL</b> - is a corpus of course booksused for teaching Swedish as a second language at CEFR levels A1, A2, B1, B2, and C1. </li>
-    <li><b>SweLL-pilot</b> is a second language learner corpus, featuring CEFR labeling.</li>
     </ul> 
 annotation:
   swe: ''
@@ -55,13 +53,11 @@ standard_reference: '{publication 345602}'
 other_references: 
   - 'Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook.'
   - '{publication 311724}'
-  - '{publication 206132}'
-  - '{publication 345597}'
-  - '{publication 248141}'
+  - '{publication 343530}'
 intended_uses:
   swe: ''
   eng: 'Research, development and pedagogical applications within (second) language acquisition and intelligent computer-assisted language learning'
-updated: 2025-01-19
+updated: 2023-04-20
 
 
 doi: 
