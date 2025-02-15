@@ -2,15 +2,15 @@ name: Swe-MWELex - Swedish lexicon of Multi-Word Expressions (for second languag
   swe: 'Swedish MWE-Lex'  # Human readable name in Swedish
   eng: 'Svenska MWE-Lex'  # Human readable name in English
 short_description:
-  swe: 'Swe-MWELex är en menings-baserad ordlista med ordförråd för elever med svenska som andraspråk med frekvenserna från uppsatser (produktivt ordförråd, baseras på SweLL-piloten) och kursböcker (receptivt ordförråd, baserat på COCTAILL)'  # Short description in a few words or a sentence in Swedish (plain text only)
-  eng: 'Sen*Lex is a sense-based lexicon of vocabulary for Swedish as a second language, featuring frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL)'  # Short description in a few words or a sentence in English (plain text only)
+  swe: 'Swe-MWELex är en betydelse-baserad ordlista med flerordsenheter som elever med svenska som andraspråk kan hantera på olika färdighetsnivåer enligt GERS (CEFR). Listan innehåller enheter och deras frekvenser från uppsatser (produktivt ordförråd, baserat på SweLL-pilot-korpusen) och kursböcker (receptivt ordförråd, baserat på COCTAILL). Utöver detta, varje flerordsenhet har manuellt klassificerats enligt deras typ (syntaktisk och lexikalisk), samt separat i undergrupper inom verb-baserade flerordsenheter.'  # Short description in a few words or a sentence in Swedish (plain text only)
+  eng: 'Swe-MWELex is a sense-based word list of multi-word expressions that learners of Swedish as a second language can handle at the different levels of proficiency (according to the CEFR scale). The word list features MWE items and their frequencies from essays (productive vocabulary, based on SweLL-pilot) and from course books (receptive vocabulary, based on COCTAILL). Besides, each MWE has been classified by its type (based on their syntactic and lexical characteristics), as well as by a subgroup within the group of verbal MWEs)'  # Short description in a few words or a sentence in English (plain text only)
 type: lexicon  # Must be "lexicon"
 trainingdata: false  # If set to "true", the resource will be listed as "Training and evaluation data"
 unlisted: false  # If set to "true", the resource won't be listed, but it will be accessible via its URL
 successors: []  # If this resource has been replaced by one or more newer versions, please list their resource IDs (shortnames) here (it is enough to list the most recent version).
 language_codes: [swe]  # Which language is this resource about? Supply the ISO 639-3 code(s), e.g. "swe" for Swedish (https://iso639-3.sil.org/code_tables/639/data)
 size:
-  entries: 34.111 (unique items 15.217)
+  entries: 2.791 (unique items 1.325)
 in_collections: 
   - learner-language  # ID(s) of the collections the resource is part of
   - L2-profiles
@@ -18,20 +18,20 @@ downloads:  # This object may be removed entirely or duplicated (in case there a
   - url: '<TODO>'  # URL to a downloadable file
     type: lexicon  # What's in the file?
     format: xlsx  # The file format or standard
-    info: 'Columns: word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), Declension (nouns), Gender (nouns), Conjugation (verbs), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)' # Additional info, if required
+    info: 'Columns: Word (MWE in its dictionary form);	Lemgram (MWE + word class); 	Sense (acc to Saldo); POS	(word class acc. to SUC); SaldoPOS	(word class acc to Saldo taxonomy); Type1:Syntactic-contiguity (subgroups of MWEs);	Type2:Lexical-categories;	Type3: Verbal-subcategory;	Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)' # Additional info, if required
     licence: CC BY 4.0
     restriction: attribution
   - url: '<TODO>'  # URL to a downloadable file -- So far: https://cental.uclouvain.be/cefrlex/svalex/download/
     type: lexicon  # What's in the file?
     format: csv  # The file format or standard
-    info: 'Columns: word (lemma), lemgram, sense (Saldo-based), POS (part-of-speech, SUC tags), SaldoPOS (Saldo tags), Declension (nouns), Gender (nouns), Conjugation (verbs), Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)'  # Additional info, if required
+    info: 'Columns: Word (MWE in its dictionary form);	Lemgram (MWE + word class); 	Sense (acc to Saldo); POS	(word class acc. to SUC); SaldoPOS	(word class acc to Saldo taxonomy); Type1:Syntactic-contiguity (subgroups of MWEs);	Type2:Lexical-categories;	Type3: Verbal-subcategory;	Receptive (absolute frequencies in coursebooks), Productive (absolute frequencies in learner essays), Receptive TTR (relative frequencies per level and total in coursebooks), Productive TTR (relative frequencies per level and total in learner essays)'  # Additional info, if required
     licence: CC BY-NC-SA 4.0
     restriction: attribution
-interface:  https://spraakbanken.gu.se/larka/svlp (go to Lexical profile / Sen*Lex) # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
+interface:  https://spraakbanken.gu.se/larka/svlp (go to Lexical profile / Multi Word Expressions) # This object may be removed entirely or duplicated (in case there are multiple downloadable files)
   - access: ''  # A link to the resource in an interface (e.g in Korp or Karp)
     licence: CC BY 4.0
     restriction: attribution
-creators: [Alfter David, Lindström Tiedemann Therese, Volodina Elena] # List of people that created the resource (format: lastname, firstname)
+creators: [Lindström Tiedemann Therese, Alfter David, Volodina Elena] # List of people that created the resource (format: lastname, firstname)
 created: '2023-04-20' # Date the resource was created (format: text)
 updated: '2023-04-20' # Date the resource was (last) updated (format: text)
 
@@ -42,33 +42,31 @@ contact_info:  # Contact info of the person who can answer questions about the r
     organisation: Språkbanken
     email: sb-info@svenska.gu.se
 annotation: # Anything worth to note about the annotations in this lexicon.
-  swe: 'CEFR levels, lemmatization, sense disambiguation, POS-tagging, grammar information (declension, gender, conjugation), frequency'
-  eng: 'GERS nivåer, lemmatisering, betydelsedisambiguering, ordklasser, grammatisk information (deklination, genus, konjugation), frekvenser'
-keywords: [second language wordlist, L2, receptive vocabulary, productive vocabulary, CEFR levels] # List of keywords (in English) that may be used for filering. Keep them short!
+  eng: 'CEFR levels, lemmatization, sense disambiguation, POS-tagging, frequency, manual MWE classification by type'
+  swe: 'GERS nivåer, lemmatisering, betydelsedisambiguering, ordklasser, frekvenser, manuell klassificering / MWE kategorier'
+keywords: [multi-word expressions, second language wordlist, L2, receptive vocabulary, productive vocabulary, CEFR levels] # List of keywords (in English) that may be used for filering. Keep them short!
 caveats:
   swe: '' # Caveats and disclaimers in Swedish
-  eng: 'Sen*Lex lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the word "berg" (Eng. mountain) is provided five time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.' # Caveats and disclaimers in English
+  eng: 'Swe-MWELex lists the same item once for each proficiency level and type of use (productive vs receptive), if the item has been used at each of the levels, which means that, for example, the expression "till_exempel" (Eng. for example) is provided six time, once for each level at which it occurs. This also means that the number of unique items is much less than the number of entries.' # Caveats and disclaimers in English
 
-standard_reference: 'Therese Lindström Tiedemann, David Alfter and Elena Volodina. (Accepted). A Practical Guide to the Swedish L2 Lexical Profile. Huminfra Handbook.'
+standard_reference: '{publication 343530}'
 references: 
- - '{publication 345602}'
- - '{publication  248142}' # List of references or links to publications describing the resource
- - '{publication 248090}'
+ -  # List of references or links to publications describing the resource
  
 intended_uses:
   swe: 'undervisning av L2 svenska, utveckling av CALL och ICALL applikationer, använding som särdrag i klassificeringsuppgifter, profilering av svenska som andraspråk' # The intended uses for this resource (in Swedish)
   eng: 'teaching L2 Swedish, developing CALL and ICALL systems, using as features in classification, profiling Swedish as a second language' # The intended uses for this resource (in English)
 description:
   # Longer description in Swedish. May contain HTML and line breaks. Start writing in the line below "swe" and keep the indentation of 4 spaces on all lines.
-  swe: |- <p>Sen*Lex är en orlista med produktivt och receptivt ordförråd for svenska som andraspråk. Listan baserar sig på två korpusar: SweLL-piloten, som innehåller uppsatser från andraspråkselever, och COCTAILL, som innehåller texter från kursböckerna som används för undervisning av svenska på kurser i svenska som andraspråk. Båda korpusar var manuellt annoterade med CEFR/GERS nivåerna. Dessa nivåer är projicerade till varje ord som observerats i texter av samma nivå. Listan är, således, inte preskriptiv, utan i högsta grad deskriptiv.  <br/> Varje ord i listan innehåller lingvistisk information som delvis var automatisk annoterad, med vissa kategorier som har kontrollerats mauellt.</p> <p>De angivna frekvenserna kommer också från de två källkorpusarna: <b>COCTAILL</b> och <b>SweLL-pilot</b>, se artiklarna här:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
+  swe: |- <p>Swe-MWELex är en orlista med flerordsenheter som används produktivt eller receptivt inom undervisning av svenska som andraspråk. Listan baserar sig på två korpusar: SweLL-piloten, som innehåller uppsatser från andraspråkselever, och COCTAILL, som innehåller texter från kursböckerna som används för undervisning av svenska på kurser i svenska som andraspråk. Båda korpusar var manuellt annoterade med CEFR/GERS nivåerna. Dessa nivåer är projicerade till varje ord som observerats i texter av samma nivå. Listan är, således, inte preskriptiv, utan i högsta grad deskriptiv.  <br/> Varje enhet i listan innehåller lingvistisk information som delvis var automatisk annoterad, med vissa kategorier som har annoterats mauellt.</p> <p>De angivna frekvenserna kommer också från de två källkorpusarna: <b>COCTAILL</b> och <b>SweLL-pilot</b>, se artiklarna här:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
 </ul>
-<p>Man kan utforska Sen*Lex på Lärka-plattformen (https://spraakbanken.gu.se/larka/svlp) under Svenska L2 profiler -> Lexikal profil -> Sen*Lex. Man kan också filtrera och ladda ner resursen därifrån.</p>
+<p>Man kan utforska Swe-MWELex på Lärka-plattformen (https://spraakbanken.gu.se/larka/svlp) under Svenska L2 profiler -> Lexikal profil -> Flerordsenheter. Man kan också filtrera och ladda ner resursen därifrån.</p>
 
 
   # Longer description in English. May contain HTML and line breaks. Start writing in the line below "eng" and keep the indentation of 4 spaces on all lines.
-  eng: |- <p>Sen*Lex is a word list with productive and receptive vocabulary for Swedish as a second language. The list is based on two corpora: SweLL-pilot, containing essays fron language learners, and COCTAILL, containing texts from course books used at courses for teaching language learners. Texts in the two corpora were manually annotated with CEFR levels. These levels have been projected to each vocabulary item observed in the texts. The list is, therefore, non-prescriptive, i.e. descriptive in character. <br/> Every item in the list contains linguistic information, that was partly automatically assigned, with certain categories manually checked. </p> <p>Frequences in the list come also from the two corpora, i.e.: <b>COCTAILL</b>, and  <b>SweLL-pilot</b>, see articles below:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
+  eng: |- <p>Swe-MWELex is a list of MultiWord Expressions that are used productively or receptively in teaching Swedish as a second language. The list is based on two corpora: SweLL-pilot, containing essays fron language learners, and COCTAILL, containing texts from course books used at courses for teaching language learners. Texts in the two corpora were manually annotated with CEFR levels. These levels have been projected to each vocabulary item observed in the texts. The list is, therefore, non-prescriptive, i.e. descriptive in character. <br/> Every item in the list contains linguistic information, that was partly automatically assigned, with certain categories manually assigned. </p> <p>Frequences in the list come also from the two corpora, i.e.: <b>COCTAILL</b>, and  <b>SweLL-pilot</b>, see articles below:</p><ul><li>Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144.</li><li>Volodina Elena. (2024) On two SweLL learner corpora–SweLL-pilot and SweLL-gold. In Huminfra Conference, pp. 83-94.</li><li>Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia.</li>
 </ul>
-<p>It is possible to interactively browse the list on the Lärka-platform (https://spraakbanken.gu.se/larka/svlp) under Swedish L2 profiles -> Lexical profile -> Sen*Lex. There, it is possible to filter the list for different categories and download it in full or a the selection.</p>
+<p>It is possible to interactively browse the list on the Lärka-platform (https://spraakbanken.gu.se/larka/svlp) under Swedish L2 profiles -> Lexical profile -> Multi Word Expressions. There, it is possible to filter the list for different categories and download it in full or as a selection.</p>
 
 
   
