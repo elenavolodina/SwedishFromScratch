@@ -15,8 +15,6 @@ resources:
   - swe-mwelex
   - l2lex-adj
   - l2lex-adjadv
-  - coctaill
-  - swell-pilot
 language_codes:
   - swe
 contact_info:
